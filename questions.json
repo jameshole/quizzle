@@ -1,65 +1,65 @@
 {
     "questions": [
-        {
-            "question": "Which international court is expected to rule on whether countries have a duty to prevent climate harm?",
-            "category": "Global",
-            "answers": [
-                { "text": "The International Criminal Court" },
-                { "text": "The International Court of Justice" },
-                { "text": "The International Tribunal for the Law of the Sea" },
-                { "text": "The African Court on Human and Peoples' Rights" }
-            ],
-            "explanation": "The ICJ is set to issue a landmark ruling on whether countries are legally obligated to prevent climate-related harm. Big move for climate accountability!",
-            "correctAnswer": 1
-        },
-        {
-            "question": "Following the opening of the 48th Australian Parliament on 22 July 2025, which among these statements is correct?",
-            "category": "National",
-            "answers": [
-                { "text": "Pauline Hanson became Senate President" },
-                { "text": "Ali France unseated Peter Dutton in Dickson" },
-                { "text": "Federal student debt forgiveness was rejected" },
-                { "text": "The Greens staged no protests" }
-            ],
-            "explanation": "Ali France won Dickson, unseating Opposition Leader Peter Dutton—a stunning federal upset.",
-            "correctAnswer": 1
-        },
-        {
-            "question": "The Victorian government recently refuted a report claiming a child in which scandal tested positive for an STD?",
-            "category": "Local",
-            "answers": [
-                { "text": "A public school star scandal" },
-                { "text": "A Point Cook childcare abuse case" },
-                { "text": "Victoria Police recruitment scandal" },
-                { "text": "Melbourne train crash incident" }
-            ],
-            "explanation": "The Victorian government rejected claims that a child in the Point Cook abuse case tested positive for an STD, calling it \"highly irresponsible.\"",
-            "correctAnswer": 1
-        },
-        {
-            "question": "When and where is the Second Test between the British & Irish Lions and Australia scheduled?",
-            "category": "Sports",
-            "answers": [
-                { "text": "July 24 at Suncorp Stadium, Brisbane" },
-                { "text": "July 26 at the MCG, Melbourne" },
-                { "text": "August 2 at ANZ Stadium, Sydney" },
-                { "text": "July 26 at Eden Park, Auckland" }
-            ],
-            "explanation": "The second Test between the British & Irish Lions and Australia is happening at the MCG on July 26. Huge turnout expected.",
-            "correctAnswer": 1
-        },
-        {
-            "question": "What is notable about Ed Sheeran's ticket pricing for his 2026 Australian tour?",
-            "category": "Entertainment",
-            "answers": [
-                { "text": "They're the most expensive concert tickets ever in Australia" },
-                { "text": "He's charging between $109.90 and $249.90 to keep prices accessible" },
-                { "text": "Only VIP packages are being sold" },
-                { "text": "Tickets will only be available via charity auction" }
-            ],
-            "explanation": "Ed Sheeran is keeping ticket prices relatively affordable for his 2026 Aussie tour—fans love him for it.",
-            "correctAnswer": 1
-        }
-
+      {
+        "question": "What joint action did the UK, France, and Germany take on July 25, 2025 regarding Gaza?",
+        "category": "Global",
+        "answers": [
+          { "text": "They announced plans to recognise Palestinian statehood immediately." },
+          { "text": "They jointly demanded an end to the humanitarian crisis and a ceasefire." },
+          { "text": "They imposed sanctions on Hamas." },
+          { "text": "They pledged military support to Israel." }
+        ],
+        "explanation": "France, Germany, and the UK issued a joint statement calling for a ceasefire in Gaza and expressed alarm over the humanitarian crisis.",
+        "correctAnswer": 1
+      },
+      {
+        "question": "What major policy change did Australia’s federal parliament enact as reported on July 24, 2025?",
+        "category": "National",
+        "answers": [
+          { "text": "Cancelled net-zero climate targets" },
+          { "text": "Lifted biosecurity restrictions on US beef imports" },
+          { "text": "Introduced a carbon tax" },
+          { "text": "Suspended water for agricultural use" }
+        ],
+        "explanation": "The Australian Parliament passed legislation introducing a new carbon pricing mechanism to address emissions more aggressively.",
+        "correctAnswer": 2
+      },
+      {
+        "question": "What serious issue was recently discovered in the Service Victoria app?",
+        "category": "State",
+        "answers": [
+          { "text": "A bug causing ticket refunds to fail" },
+          { "text": "A flaw allowing dummy QR codes to bypass working-with-children checks" },
+          { "text": "A data leak exposing user addresses" },
+          { "text": "A crash when verifying vaccine certificates" }
+        ],
+        "explanation": "The app had a loophole where dummy QR codes could be used to bypass working-with-children checks, raising serious safety concerns.",
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which sport is described as struggling in Australia despite large crowds at the MCG?",
+        "category": "Sport",
+        "answers": [
+          { "text": "Cricket" },
+          { "text": "Rugby league (NRL)" },
+          { "text": "Rugby union" },
+          { "text": "AFL" }
+        ],
+        "explanation": "Despite decent attendance figures, cricket is reportedly struggling with broadcast ratings and youth participation across Australia.",
+        "correctAnswer": 0
+      },
+      {
+        "question": "What has sparked fan outrage among Melbourne AFL supporters?",
+        "category": "Entertainment",
+        "answers": [
+          { "text": "A leaked player salary scandal" },
+          { "text": "A new AFL docuseries featuring only one Melbourne-based club" },
+          { "text": "Banning of cheerleaders in stadiums" },
+          { "text": "Removal of membership benefits for Melbourne clubs" }
+        ],
+        "explanation": "Fans are frustrated that the new 'Drive to Survive'-style AFL docuseries only highlights Sydney and GWS, ignoring Melbourne's big clubs.",
+        "correctAnswer": 1
+      }
     ]
-}
+  }
+  
