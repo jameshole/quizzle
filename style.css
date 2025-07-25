@@ -1,0 +1,138 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    line-height: 1.5;
+    color: #222;
+}
+
+.splash-screen, .question, .result, .final {
+    padding: 1rem;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    height: 100%;
+    max-width: 750px;
+    margin: 0 auto;
+}
+
+.splash-screen.hidden, .question.hidden, .result.hidden, .final.hidden {
+    display: none;
+}
+
+h1 {
+    text-align: center;
+    margin: 0;
+}
+
+p#subtitle {
+    text-align: center;
+    margin: 1rem 0;
+    font-size: 20px;
+}
+
+.icon {
+    font-size: 4rem;
+    display: block;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+button {
+    background-color: #fff;
+    color: #222;
+    border: 1px solid #CCC;
+    padding: 1rem 2rem;
+    border-radius: 0.5rem;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-family: "Montserrat", sans-serif;
+    user-select: none;
+}
+
+button.primary {
+    background-color: #222;
+    color: #fff;
+    border: none;
+}
+
+button:hover {
+    background-color: #666;
+    color: #fff;
+}
+
+button.answer {
+    display: block;
+    width: 100%;
+}
+
+.answer {
+    margin: 1rem 0;
+}
+
+.answer input {
+    display: none;
+}
+
+.answer input:checked + label {
+    background-color: #222;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    margin: 0 -1rem;
+}
+
+h2.global {
+    background-color: #9cc3fd;
+}
+h2.global:before {
+    content: '🌍 ';
+}
+
+h2.national {
+    background-color: #ffbaba;
+}
+h2.national:before {
+    content: '🇦🇺 ';
+}
+
+h2.local {
+    background-color: #cafed6;
+}
+h2.local:before {
+    content: '📍 ';
+}
+
+h2.sports {
+    background-color: #222;
+    color: #fff;
+}
+h2.sports:before {
+    content: '⚽ ';
+}
+
+h2.entertainment {
+    background-color: #dfcafe;
+}
+h2.entertainment:before {
+    content: '🎬 ';
+}
+
+#shareable {
+    margin-top: 0;
+    background-color: #CCC;
+    padding: 5px;
+}
+
+#copy-button {
+    margin-top: 1rem;
+}
