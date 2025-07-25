@@ -17,10 +17,11 @@ document.addEventListener("DOMContentLoaded", async function() {
     try {
         const response = await fetch('questions.json');
         questions = (await response.json()).questions;
-        console.log(questions);
     } catch (error) {
         console.error('Failed to load questions:', error);
     }
+
+    loadProgress();
 
     updateSubtitle();
     document.getElementById("start-button").addEventListener("click", startQuiz);
@@ -84,13 +85,17 @@ function checkAnswer(answerIndex) {
     } else {
         resultString += '❌';
     }
+
+    saveProgress();
     
     // hide question, show result
     document.querySelector(".question").classList.add('hidden');
     document.querySelector(".result").classList.remove('hidden');
     
     // set result text
-    document.getElementById("result-text").textContent = isCorrect ? "Correct" : "Incorrect";
+    document.getElementById("result-text").textContent = isCorrect ? "✅ Correct" : "❌ Incorrect";
+    document.getElementById("result-text").classList.add(isCorrect ? 'correct' : 'incorrect');
+    document.getElementById("result-text").classList.remove(isCorrect ? 'incorrect' : 'correct');
     
     // set explanation text
     document.getElementById("result-explanation").textContent = currentQuestion.explanation;
@@ -98,7 +103,10 @@ function checkAnswer(answerIndex) {
 
 function nextQuestion() {
     currentQuestionIndex++;
-    
+    updateDisplay();
+}
+
+function updateDisplay() {
     if (currentQuestionIndex < questions.length) {
         // hide result, show question
         document.querySelector(".result").classList.add('hidden');
@@ -135,4 +143,26 @@ function shareText() {
 function copyText() {
     const shareableText = document.querySelector("#shareable").textContent;
     navigator.clipboard.writeText(shareableText);
+}
+
+function getSaveKey() {
+    const today = new Date();
+    const month = String(today.getMonth()+1).padStart(2, '0');
+    const day = String(today.getDate()).padStart(2, '0');
+    return `quizzle-${today.getFullYear()}-${month}-${day}`;
+}
+
+function saveProgress() {
+    localStorage.setItem(getSaveKey(), resultString);
+}
+
+function loadProgress() {
+    let saveState = localStorage.getItem(getSaveKey());
+    if (!saveState) return;
+    resultString = saveState;
+    currentQuestionIndex = resultString.length;
+    totalCorrect = (resultString.match(new RegExp("✅", "g")) || []).length;
+
+    document.querySelector(".splash-screen").classList.add('hidden');
+    updateDisplay();
 }

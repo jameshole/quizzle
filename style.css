@@ -136,3 +136,11 @@ h2.entertainment:before {
 #copy-button {
     margin-top: 1rem;
 }
+
+#result-text.correct {
+    color: rgb(69, 110, 69);
+}
+
+#result-text.incorrect {
+    color: rgb(88, 33, 33);
+}
