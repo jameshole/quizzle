@@ -6,75 +6,22 @@ const categoryIconMap = {
     "Entertainment": '🎬',
 };
 
-const questions = [
-    {
-        question: "Which international court is expected to rule on whether countries have a duty to prevent climate harm?",
-        category: "Global",
-        answers: [
-            { text: "The International Criminal Court" },
-            { text: "The International Court of Justice" },
-            { text: "The International Tribunal for the Law of the Sea" },
-            { text: "The African Court on Human and Peoples' Rights" },
-        ],
-        explanation: "The ICJ is set to issue a landmark ruling on whether countries are legally obligated to prevent climate-related harm. Big move for climate accountability!",
-        correctAnswer: 1,
-    },
-    {
-        question: "Following the opening of the 48th Australian Parliament on 22 July 2025, which among these statements is correct?",
-        category: "National",
-        answers: [
-            { text: "Pauline Hanson became Senate President" },
-            { text: "Ali France unseated Peter Dutton in Dickson" },
-            { text: "Federal student debt forgiveness was rejected" },
-            { text: "The Greens staged no protests" },
-        ],
-        explanation: "Ali France won Dickson, unseating Opposition Leader Peter Dutton—a stunning federal upset.",
-        correctAnswer: 1,
-    },
-    {
-        question: "The Victorian government recently refuted a report claiming a child in which scandal tested positive for an STD?",
-        category: "Local",
-        answers: [
-            { text: "A public school star scandal" },
-            { text: "A Point Cook childcare abuse case" },
-            { text: "Victoria Police recruitment scandal" },
-            { text: "Melbourne train crash incident" },
-        ],
-        explanation: "The Victorian government rejected claims that a child in the Point Cook abuse case tested positive for an STD, calling it “highly irresponsible.”",
-        correctAnswer: 1,
-    },
-    {
-        question: "When and where is the Second Test between the British & Irish Lions and Australia scheduled?",
-        category: "Sports",
-        answers: [
-            { text: "July 24 at Suncorp Stadium, Brisbane" },
-            { text: "July 26 at the MCG, Melbourne" },
-            { text: "August 2 at ANZ Stadium, Sydney" },
-            { text: "July 26 at Eden Park, Auckland" },
-        ],
-        explanation: "The second Test between the British & Irish Lions and Australia is happening at the MCG on July 26. Huge turnout expected.",
-        correctAnswer: 1,
-    },
-    {
-        question: "What is notable about Ed Sheeran’s ticket pricing for his 2026 Australian tour?",
-        category: "Entertainment",
-        answers: [
-            { text: "They’re the most expensive concert tickets ever in Australia" },
-            { text: "He’s charging between $109.90 and $249.90 to keep prices accessible" },
-            { text: "Only VIP packages are being sold" },
-            { text: "Tickets will only be available via charity auction" },
-        ],
-        explanation: "Ed Sheeran is keeping ticket prices relatively affordable for his 2026 Aussie tour—fans love him for it.",
-        correctAnswer: 1,
-    },
-];
-
+let questions = [];
 let currentQuestionIndex = 0;
 let totalCorrect = 0;
 let resultString = "";
 
 // on document ready
-document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", async function() {
+    // Load questions from JSON file
+    try {
+        const response = await fetch('questions.json');
+        questions = (await response.json()).questions;
+        console.log(questions);
+    } catch (error) {
+        console.error('Failed to load questions:', error);
+    }
+
     updateSubtitle();
     document.getElementById("start-button").addEventListener("click", startQuiz);
     document.querySelector(".next").addEventListener("click", nextQuestion);
