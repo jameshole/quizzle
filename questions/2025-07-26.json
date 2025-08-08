@@ -1,7 +1,7 @@
 {
     "questions": [
       {
-        "question": "What joint action did the UK, France, and Germany take on July 25, 2025 regarding Gaza?",
+        "question": "What joint action did the UK, France, and Germany take on July 25, 2025 regarding Gaza?",
         "category": "Global",
         "answers": [
           { "text": "They announced plans to recognise Palestinian statehood immediately." },
@@ -13,7 +13,7 @@
         "correctAnswer": 1
       },
       {
-        "question": "What major policy change did Australia’s federal parliament enact as reported on July 24, 2025?",
+        "question": "What major policy change did Australia's federal parliament enact as reported on July 24, 2025?",
         "category": "National",
         "answers": [
           { "text": "Cancelled net-zero climate targets" },
