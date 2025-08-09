@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "On Aug. 8, 2025, which Israeli body approved a plan for the Israel Defense Forces to move to take control of Gaza City?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "The Knesset (Israel’s parliament)"
+        },
+        {
+          "text": "The Israel Defense Forces (IDF) General Staff"
+        },
+        {
+          "text": "Israel’s security cabinet"
+        },
+        {
+          "text": "The United Nations Security Council"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Multiple reputable outlets reported that Israel’s security cabinet approved the plan on Aug. 8, 2025 for the IDF to prepare to take control of Gaza City. Reports describe this as a security-cabinet decision to approve the proposal in principle (a step toward taking control), rather than a final legal or operational act of full occupation.",
+      "source": "https://www.reuters.com/world/middle-east/un-chief-calls-israeli-plan-take-control-gaza-city-dangerous-escalation-2025-08-08/"
+    },
+    {
+      "question": "During their leaders’ meeting in Queenstown on 9 August 2025, what specific action did Australian PM Anthony Albanese and New Zealand PM Christopher Luxon publicly urge Israel to reconsider?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "Introducing new trade tariffs on New Zealand goods"
+        },
+        {
+          "text": "A plan to take over Gaza City"
+        },
+        {
+          "text": "Withdrawing from increased ANZAC defence cooperation"
+        },
+        {
+          "text": "Immediately recognising a Palestinian state"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "At their joint press appearance in Queenstown on 9 August 2025, Albanese and Luxon publicly urged Israel to reconsider a reported plan to take over/occupy Gaza City, and also called for a ceasefire, greater humanitarian access and the release of hostages.",
+      "source": "https://www.theguardian.com/australia-news/2025/aug/09/albanese-and-luxon-urge-israel-to-reconsider-gaza-city-takeover-during-warm-generous-meeting"
+    },
+    {
+      "question": "On what date did around 100 masked men march through Melbourne’s CBD in the neo‑Nazi 'pop‑up' protest?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "8 August 2025"
+        },
+        {
+          "text": "10 August 2025"
+        },
+        {
+          "text": "9 August 2025"
+        },
+        {
+          "text": "20 September 2025"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "The march took place in the early hours of Saturday 9 August 2025. Multiple reputable outlets (including ABC News) report a group of around 100 masked men moving through Bourke Street Mall toward Flagstaff Gardens on 9 August 2025, described by police as a 'pop‑up protest.'",
+      "source": "https://www.abc.net.au/news/2025-08-09/melbourne-men-in-black-protest-police/105632224"
+    },
+    {
+      "question": "Which player did Mitchell Marsh announce as Australia's preferred T20 opening partner for the foreseeable future beginning with the series against South Africa?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "Glenn Maxwell"
+        },
+        {
+          "text": "Travis Head"
+        },
+        {
+          "text": "David Warner"
+        },
+        {
+          "text": "Matt Short"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mitchell Marsh stated in Darwin on 8 August 2025 that he and Travis Head would be Australia’s preferred T20 opening pair starting with the three‑match T20I series versus South Africa.",
+      "source": "https://sports.ndtv.com/cricket/australia-settle-on-marsh-and-head-as-t20i-openers-9050435"
+    },
+    {
+      "question": "Which artist was named Artist of the Year at the 2025 National Indigenous Music Awards (NIMAs) held on 9 August 2025?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "BARKAA"
+        },
+        {
+          "text": "Jessica Mauboy"
+        },
+        {
+          "text": "Emily Wurramara"
+        },
+        {
+          "text": "Andrew Gurruwiwi Band"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Emily Wurramara was awarded Artist of the Year at the 2025 NIMAs (held 9 August 2025 in Darwin); she also won Film Clip of the Year for “Lordy Lordy.” BARKAA won Album of the Year, Jessica Mauboy was inducted into the Hall of Fame, and the Andrew Gurruwiwi Band won Best New Talent and Song of the Year.",
+      "source": "https://www.abc.net.au/news/2025-08-09/nt-national-indigenous-music-award-2025-winners/105632314"
+    }
+  ],
+  "date": "2025-08-10",
+  "generatedAt": "2025-08-09T15:52:35.091Z"
+}
