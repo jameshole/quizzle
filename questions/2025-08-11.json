@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "Which leader was reported as possibly being invited to join or attend follow-up talks at the Alaska summit between U.S. President Donald Trump and Russian President Vladimir Putin?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "Xi Jinping"
+        },
+        {
+          "text": "Volodymyr Zelenskyy"
+        },
+        {
+          "text": "Rishi Sunak"
+        },
+        {
+          "text": "Emmanuel Macron"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "News reports said the White House was at least considering inviting Ukrainian President Volodymyr Zelenskyy to join or attend talks in Alaska related to the Trump–Putin meeting. Reporting described the invitation as being under consideration, not confirmed.",
+      "source": "https://www.reuters.com/world/europe/white-house-considering-inviting-zelenskiy-alaska-nbc-news-reports-2025-08-09/?utm_source=chatgpt.com"
+    },
+    {
+      "question": "During their meeting in Queenstown on 9 August 2025, what did Australian PM Anthony Albanese and New Zealand PM Christopher Luxon publicly urge Israel to reconsider?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "Launching a new ground invasion of the West Bank"
+        },
+        {
+          "text": "Recognising Palestinian statehood unilaterally before the UN General Assembly"
+        },
+        {
+          "text": "A planned takeover (operation to take control) of Gaza City"
+        },
+        {
+          "text": "Imposing a new maritime blockade on Gaza"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "At a joint press conference in Queenstown on 9 August 2025, Albanese and Luxon called for a ceasefire, more humanitarian access and for Israel to reconsider plans to take control of Gaza City — urging against a planned Gaza City operation.",
+      "source": "https://www.theguardian.com/australia-news/2025/aug/09/albanese-and-luxon-urge-israel-to-reconsider-gaza-city-takeover-during-warm-generous-meeting"
+    },
+    {
+      "question": "On what date did around 100 masked men march through Melbourne's CBD in the overnight neo‑Nazi 'pop‑up protest' that ended at Flagstaff Gardens?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "8 August 2025"
+        },
+        {
+          "text": "10 August 2025"
+        },
+        {
+          "text": "9 August 2025"
+        },
+        {
+          "text": "9 September 2025"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "The march took place in the early hours of Saturday 9 August 2025, when a group of about 100 masked men moved through Bourke/La Trobe Streets and onto Flagstaff Gardens, as reported by ABC News and other outlets.",
+      "source": "https://www.abc.net.au/news/2025-08-09/melbourne-men-in-black-protest-police/105632224"
+    },
+    {
+      "question": "How many runs did Tim David score in Australia’s win over South Africa in the 1st men’s T20I at Marrara (TIO) Stadium, Darwin on 10 August 2025?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "68"
+        },
+        {
+          "text": "52"
+        },
+        {
+          "text": "83"
+        },
+        {
+          "text": "91"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Tim David made 83 runs (off 52 balls, including eight sixes) and was named Player of the Match as Australia beat South Africa by 17 runs in the first T20I in Darwin on 10 August 2025.",
+      "source": "https://sports.ndtv.com/cricket/aus-vs-sa-scorecard-live-cricket-score-south-africa-in-australia-3-t20i-series-2025-1st-t20i-ausa08102025258913"
+    },
+    {
+      "question": "Who was inducted into the National Indigenous Music Awards (NIMAs) Hall of Fame at the 2025 ceremony in Darwin?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "Troy Cassar-Daley"
+        },
+        {
+          "text": "Emily Wurramara"
+        },
+        {
+          "text": "Jessica Mauboy"
+        },
+        {
+          "text": "BARKAA"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Jessica Mauboy was formally inducted into the NIMAs Hall of Fame at the 2025 ceremony on 9 August 2025, as reported in coverage of the event.",
+      "source": "https://www.theguardian.com/music/2025/aug/09/national-indigenous-music-awards-2025-emily-wurramara-wins-artist-of-the-year"
+    }
+  ],
+  "date": "2025-08-11",
+  "generatedAt": "2025-08-10T15:53:01.722Z"
+}
