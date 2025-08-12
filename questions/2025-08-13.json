@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "An Israeli airstrike on August 10, 2025, struck a journalists’ tent by the main gate of which Gaza hospital, killing Al Jazeera staff including Anas al‑Sharif?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "al-Ahli Arab Hospital"
+        },
+        {
+          "text": "al-Quds Hospital"
+        },
+        {
+          "text": "al-Shifa Hospital"
+        },
+        {
+          "text": "Nasser Hospital"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Reports state the strike hit a journalists’ tent by the main gate of al-Shifa Hospital in Gaza City, killing five Al Jazeera staff including correspondent Anas al‑Sharif. This detail is reported in the Reuters story linked below.",
+      "source": "https://www.reuters.com/world/middle-east/israel-strike-kills-al-jazeera-journalists-gaza-2025-08-11/"
+    },
+    {
+      "question": "At which session of the United Nations General Assembly did Prime Minister Anthony Albanese say Australia would formally recognise a State of Palestine?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "78th session"
+        },
+        {
+          "text": "79th session"
+        },
+        {
+          "text": "80th session"
+        },
+        {
+          "text": "81st session"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Anthony Albanese announced on 11 August 2025 that Australia will formally recognise a State of Palestine at the United Nations General Assembly during its 80th session in September 2025. The government described the recognition as scheduled for that UNGA session and contingent on commitments from the Palestinian Authority.",
+      "source": "https://www.pm.gov.au/media/australia-recognise-palestinian-state"
+    },
+    {
+      "question": "Where was the 34-year-old man arrested after two people were found dead in a Mount Waverley home?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "Glen Waverley train station"
+        },
+        {
+          "text": "Mount Waverley train station"
+        },
+        {
+          "text": "Westall train station (Clayton South)"
+        },
+        {
+          "text": "Clayton train station"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Police arrested a 34-year-old man at Westall train station in Clayton South about 1:40am on Tuesday 12 August 2025 after the bodies were discovered in a Mount Waverley unit. He is in custody for interview by homicide detectives.",
+      "source": "https://www.abc.net.au/news/2025-08-12/man-arrested-after-two-found-dead-mount-waverley/105640466"
+    },
+    {
+      "question": "Which artist was announced as the headline pre-game performer for the 2025 AFL Grand Final at the MCG?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "Drake"
+        },
+        {
+          "text": "Snoop Dogg"
+        },
+        {
+          "text": "Rihanna"
+        },
+        {
+          "text": "Ed Sheeran"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "On 11 August 2025 the AFL announced that American rapper Snoop Dogg would headline the pre-game entertainment for the 2025 AFL Grand Final at the Melbourne Cricket Ground.",
+      "source": "https://www.abc.net.au/news/2025-08-12/snoop-dogg-announced-as-afl-grand-final-pre-game-entertainment/105640650"
+    },
+    {
+      "question": "Which US rapper was announced to headline the pre‑game entertainment at the 2025 AFL Grand Final at the MCG?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "Drake"
+        },
+        {
+          "text": "Katy Perry"
+        },
+        {
+          "text": "Snoop Dogg (Calvin Broadus Jr.)"
+        },
+        {
+          "text": "Kendrick Lamar"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "The AFL announced that US rapper Snoop Dogg (Calvin Broadus Jr.) will headline the pre‑game entertainment for the 2025 AFL Grand Final at the Melbourne Cricket Ground.",
+      "source": "https://www.abc.net.au/news/2025-08-12/snoop-dogg-announced-as-afl-grand-final-pre-game-entertainment/105640650"
+    }
+  ],
+  "date": "2025-08-13",
+  "generatedAt": "2025-08-12T02:42:54.160Z"
+}
