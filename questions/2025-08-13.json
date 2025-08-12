@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "Which prominent Al Jazeera correspondent was reported killed in the Israeli airstrike on a media tent outside al‑Shifa Hospital in Gaza City late on August 10, 2025?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "Peter Greste"
+        },
+        {
+          "text": "Anas al‑Sharif"
+        },
+        {
+          "text": "Jamal Khashoggi"
+        },
+        {
+          "text": "Shireen Abu Akleh"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Al Jazeera and Reuters reported that Anas al‑Sharif, a prominent Al Jazeera correspondent, was among the journalists killed when a media tent outside al‑Shifa Hospital in Gaza City was struck late on August 10, 2025. Some outlets dated the reports Aug. 11 due to time zone and publication timing; casualty totals and attribution were disputed in subsequent reporting.",
+      "source": "https://www.reuters.com/world/middle-east/israel-steps-up-gaza-city-bombing-after-netanyahu-vow-expand-offensive-2025-08-11/"
+    },
+    {
+      "question": "On what date did Prime Minister Anthony Albanese announce that Australia will recognise a Palestinian state?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "11 September 2025"
+        },
+        {
+          "text": "10 August 2025"
+        },
+        {
+          "text": "11 August 2025"
+        },
+        {
+          "text": "12 August 2025"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "The announcement was made on 11 August 2025 (Australian local date) that Australia would recognise a Palestinian state, with formal recognition to be pursued at the UN General Assembly in September 2025. Note that some international wire services showed an earlier UTC date due to time‑zone differences; the domestic press conference and Australian reporting give the date as 11 August 2025.",
+      "source": "https://www.abc.net.au/news/2025-08-11/australia-will-recognise-palestine-at-un-meeting-in-september/105634166?utm_source=chatgpt.com"
+    },
+    {
+      "question": "According to reporting on the Victorian government's revisions, how was the proposed ban on 'face coverings' at protests changed?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "It kept an outright blanket ban with fines up to $2,000."
+        },
+        {
+          "text": "It was narrowed so penalties apply only when a person wearing a face covering is believed to be committing a criminal act or is refusing to cooperate with police."
+        },
+        {
+          "text": "Face coverings were allowed except when worn by members of listed terrorist organisations."
+        },
+        {
+          "text": "Protesters wearing face coverings were required to obtain a police permit in advance."
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Guardian reported the government moved away from an outright blanket ban and was expected to narrow the measure so penalties would apply only where a person wearing a face covering is believed to be committing a criminal act or is refusing to cooperate with police. This was reported as the government's intended revision (consultation stage) and the final bill wording had not yet been published at the time of the report.",
+      "source": "https://www.theguardian.com/australia-news/2025/aug/13/victorias-new-anti-protest-laws-to-be-watered-down-amid-pushback-from-human-rights-groups-and-unions-ntwnfb"
+    },
+    {
+      "question": "In the 2nd T20I at Marrara, Darwin on Aug 12, 2025, what unbeaten score did Dewald Brevis make to steer South Africa to victory over Australia?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "108 not out"
+        },
+        {
+          "text": "99 not out"
+        },
+        {
+          "text": "125 not out"
+        },
+        {
+          "text": "150 not out"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dewald Brevis finished unbeaten on 125 (off 56 balls) in the 2nd T20I at Marrara, helping South Africa post 218/7 and beat Australia by 53 runs; he was named Player of the Match.",
+      "source": "https://www.espn.com/cricket/series/23268/report/1478899/australia-vs-south-africa-2nd-t20i-south-africa-in-australia-2025"
+    },
+    {
+      "question": "Taylor Swift's announcement on August 12, 2025 revealed which numbered studio album, titled The Life of a Showgirl?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "10th studio album"
+        },
+        {
+          "text": "11th studio album"
+        },
+        {
+          "text": "12th studio album"
+        },
+        {
+          "text": "13th studio album"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "News reports state that Taylor Swift announced her twelfth studio album, The Life of a Showgirl, on August 12, 2025. This makes '12th studio album' the correct answer.",
+      "source": "https://people.com/taylor-swift-new-album-lights-up-the-empire-state-building-orange-11789219"
+    }
+  ],
+  "date": "2025-08-13",
+  "generatedAt": "2025-08-12T15:55:18.960Z"
+}
