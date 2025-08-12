@@ -149,7 +149,12 @@ function loadQuestion(index) {
         const answerElement = questionElement.querySelector(`#answer-${index + 1}`);
         answerElement.textContent = answer.text;
         answerElement.onclick = () => checkAnswer(index);
+        // Reset any previous styling
+        answerElement.classList.remove('correct', 'incorrect');
+        answerElement.disabled = false;
     });
+    // Hide feedback initially
+    document.getElementById('feedback').classList.add('hidden');
 }
 
 function checkAnswer(answerIndex) {
@@ -165,17 +170,30 @@ function checkAnswer(answerIndex) {
 
     saveProgress();
 
-    // hide question, show result
-    document.querySelector(".question").classList.add('hidden');
-    document.querySelector(".result").classList.remove('hidden');
+    // Update the category header to show result
+    const categoryElement = document.getElementById("question-category");
+    categoryElement.textContent = isCorrect ? '✅ Correct' : '❌ Incorrect';
+    categoryElement.classList.remove(...categoryElement.classList);
+    categoryElement.classList.add(isCorrect ? 'result-correct' : 'result-incorrect');
 
-    // set result text
-    document.getElementById("result-text").textContent = isCorrect ? "✅ Correct" : "❌ Incorrect";
-    document.getElementById("result-text").classList.add(isCorrect ? 'correct' : 'incorrect');
-    document.getElementById("result-text").classList.remove(isCorrect ? 'incorrect' : 'correct');
+    // Disable all answer buttons
+    document.querySelectorAll('.answer').forEach(btn => {
+        btn.disabled = true;
+    });
 
-    // set explanation text
+    // Highlight the correct answer in green
+    const correctButton = document.querySelector(`#answer-${currentQuestion.correctAnswer + 1}`);
+    correctButton.classList.add('correct');
+
+    // If user selected wrong answer, highlight it in red
+    if (!isCorrect) {
+        const selectedButton = document.querySelector(`#answer-${answerIndex + 1}`);
+        selectedButton.classList.add('incorrect');
+    }
+
+    // Show explanation and continue button
     document.getElementById("result-explanation").textContent = currentQuestion.explanation;
+    document.getElementById('feedback').classList.remove('hidden');
 }
 
 function nextQuestion() {
@@ -185,14 +203,13 @@ function nextQuestion() {
 
 function updateDisplay() {
     if (currentQuestionIndex < questions.length) {
-        // hide result, show question
-        document.querySelector(".result").classList.add('hidden');
+        // Make sure question screen is visible
         document.querySelector(".question").classList.remove('hidden');
 
         // load next question
         loadQuestion(currentQuestionIndex);
     } else if (currentQuestionIndex === questions.length) {
-        document.querySelector(".result").classList.add('hidden');
+        document.querySelector(".question").classList.add('hidden');
         document.querySelector(".final").classList.remove('hidden');
         setShareable();
     }

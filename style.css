@@ -11,7 +11,7 @@ html, body {
     color: #222;
 }
 
-.splash-screen, .question, .result, .final {
+.splash-screen, .question, .final {
     padding: 1rem;
     box-sizing: border-box;
     display: flex;
@@ -20,9 +20,10 @@ html, body {
     height: 100%;
     max-width: 750px;
     margin: 0 auto;
+    overflow: auto;
 }
 
-.splash-screen.hidden, .question.hidden, .result.hidden, .final.hidden {
+.splash-screen.hidden, .question.hidden, .final.hidden {
     display: none;
 }
 
@@ -52,9 +53,9 @@ button {
     border-radius: 0.5rem;
     font-size: 1rem;
     cursor: pointer;
-    transition: background-color 0.3s ease;
     font-family: "Montserrat", sans-serif;
     user-select: none;
+    width: 100%;
 }
 
 button.primary {
@@ -99,14 +100,14 @@ h2.global:before {
 }
 
 h2.national {
-    background-color: #ffbaba;
+    background-color: #fed81d;
 }
 h2.national:before {
     content: '🇦🇺 ';
 }
 
 h2.local {
-    background-color: #cafed6;
+    background-color: #ffa276;
 }
 h2.local:before {
     content: '📍 ';
@@ -127,6 +128,16 @@ h2.entertainment:before {
     content: '🎬 ';
 }
 
+h2.result-correct {
+    background-color: #c3e4c5;
+    color: #4CAF50;
+}
+
+h2.result-incorrect {
+    background-color: #ffc8c4;
+    color: #f44336;
+}
+
 #shareable {
     margin-top: 0;
     background-color: #CCC;
@@ -137,10 +148,47 @@ h2.entertainment:before {
     margin-top: 1rem;
 }
 
-#result-text.correct {
-    color: rgb(69, 110, 69);
+button.answer.correct {
+    background-color: #4CAF50;
+    color: white;
+    border-color: #4CAF50;
 }
 
-#result-text.incorrect {
-    color: rgb(88, 33, 33);
+button.answer.incorrect {
+    background-color: #f44336;
+    color: white;
+    border-color: #f44336;
+}
+
+button.answer:disabled {
+    cursor: not-allowed;
+    opacity: 0.8;
+}
+
+button.answer:disabled:hover {
+    background-color: inherit;
+}
+
+button.answer.correct:disabled:hover {
+    background-color: #4CAF50;
+}
+
+button.answer.incorrect:disabled:hover {
+    background-color: #f44336;
+}
+
+#feedback {
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid #ddd;
+}
+
+#feedback.hidden {
+    display: none;
+}
+
+#result-explanation {
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
+    line-height: 1.6;
 }
