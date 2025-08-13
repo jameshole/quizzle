@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "Following an Israeli strike on a media tent outside al‑Shifa Hospital in Gaza City on Aug. 10–11, 2025, how many Al Jazeera staff did Al Jazeera later confirm were killed?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "Three"
+        },
+        {
+          "text": "Four"
+        },
+        {
+          "text": "Five"
+        },
+        {
+          "text": "Six"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Al Jazeera initially reported five staff killed but later corrected its count, confirming that four Al Jazeera staff were killed in the strike; two additional freelance journalists were also reported among the victims.",
+      "source": "https://www.aljazeera.com/news/2025/8/10/al-jazeera-journalist-anas-al-sharif-killed-in-israeli-attack-in-gaza-city"
+    },
+    {
+      "question": "Where and when did the Australian government say it will formally recognise the State of Palestine?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "At a UN Security Council meeting in October 2025"
+        },
+        {
+          "text": "In a bilateral signing ceremony in Canberra on 11 August 2025"
+        },
+        {
+          "text": "At the United Nations General Assembly during its 80th session in September 2025"
+        },
+        {
+          "text": "At the 79th UN General Assembly session in 2024"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Prime Minister Anthony Albanese announced on 11 August 2025 that Australia will formally recognise the State of Palestine at the United Nations General Assembly during its 80th session in September 2025, rather than via a bilateral Canberra ceremony or a Security Council meeting.",
+      "source": "https://www.pm.gov.au/media/australia-recognise-palestinian-state"
+    },
+    {
+      "question": "According to reporting on 13 August 2025, which part of Victoria's proposed anti‑protest measures was still expected to move forward rather than be narrowed or dropped?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "A blanket ban on face coverings at protests"
+        },
+        {
+          "text": "A ban on flags/symbols of listed terrorist organisations"
+        },
+        {
+          "text": "A broad ban on 'attachment devices' such as chains and glue"
+        },
+        {
+          "text": "A 'safe access' zone around places of worship"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Reporting on 13 August 2025 said the government still expected to proceed with a ban on flags/symbols of listed terrorist organisations (reported more generally as a ban on 'terrorist symbols'), while other proposed measures were being narrowed or dropped (limits on any face‑covering ban, tightened rules on attachment devices, and unlikely to proceed with a safe access zone). This reflected the government's stated expectation at that time, not a law already enacted.",
+      "source": "https://www.theguardian.com/australia-news/2025/aug/13/victorias-new-anti-protest-laws-to-be-watered-down-amid-pushback-from-human-rights-groups-and-unions-ntwnfb"
+    },
+    {
+      "question": "Which format did Cricket Australia CEO Todd Greenberg warn could financially 'send countries bankrupt' if smaller boards were forced to play it?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "Twenty20 internationals (T20Is)"
+        },
+        {
+          "text": "One-Day Internationals (50-over ODIs)"
+        },
+        {
+          "text": "Five-day Test cricket"
+        },
+        {
+          "text": "Franchise short-form tournaments (e.g., The Hundred/BBL)"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Reports quote Greenberg saying that forcing all nations to play Test cricket — meaning the traditional five-day Test format — could financially cripple smaller boards. He was arguing for a slimmer Test calendar and concentrating on marquee series (Reuters, Aug 13, 2025).",
+      "source": "https://www.reuters.com/sports/cricket/australia-boss-says-tests-could-send-nations-bankrupt-2025-08-13/"
+    },
+    {
+      "question": "At what time (Eastern) did the countdown on Taylor Swift’s official site expire, triggering the announcement of her 12th album on August 12, 2025?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "11:11 p.m. (ET)"
+        },
+        {
+          "text": "12:00 a.m. (ET)"
+        },
+        {
+          "text": "12:12 a.m. (ET)"
+        },
+        {
+          "text": "1:12 a.m. (ET)"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "The news summary reports the countdown on Swift’s official site expired at 12:12 a.m. Eastern time on August 12, 2025, at which point the announcement for The Life of a Showgirl appeared.",
+      "source": "https://www.abc.net.au/news/2025-08-12/taylor-swift-announces-twelfth-studio-album/105643242"
+    }
+  ],
+  "date": "2025-08-14",
+  "generatedAt": "2025-08-13T15:53:14.521Z"
+}
