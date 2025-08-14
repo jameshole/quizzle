@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "At which location is the one-on-one summit between U.S. President Donald Trump and Russian President Vladimir Putin scheduled to take place on August 15, 2025?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "Camp David, Maryland"
+        },
+        {
+          "text": "Anchorage, Alaska — Joint Base Elmendorf–Richardson"
+        },
+        {
+          "text": "Reykjavik, Iceland"
+        },
+        {
+          "text": "Geneva, Switzerland"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "As reported by the White House and multiple U.S. and local outlets, the one-on-one meeting is scheduled for August 15, 2025, in Anchorage, Alaska, at Joint Base Elmendorf–Richardson.",
+      "source": "https://alaskapublic.org/top-stories/2025-08-13/its-jber-anchorage-military-base-to-host-trump-putin-summit?utm_source=chatgpt.com"
+    },
+    {
+      "question": "According to the ABC’s report on a leaked Treasury briefing (Aug. 13–14, 2025), approximately how many housing approvals did the briefing say were being held up by EPBC Act assessments?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "Around 10,000 approvals"
+        },
+        {
+          "text": "About 30,000 approvals"
+        },
+        {
+          "text": "Roughly 50,000 approvals"
+        },
+        {
+          "text": "About 1,200 approvals"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "The ABC’s coverage of a leaked Treasury briefing reported that the document estimated roughly 30,000 housing approvals were being held up in assessments under the Environment Protection and Biodiversity Conservation (EPBC) Act. The figure comes from a leaked internal briefing and has not been independently verified or presented as final government policy.",
+      "source": "https://www.abc.net.au/news/2025-08-14/leaked-treasury-advice-outcomes-productivity-round-table/105648510"
+    },
+    {
+      "question": "Where were the bodies of a man and a woman found on the night of Monday 11 August 2025 in the Mount Waverley incident?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "Westall Railway Station"
+        },
+        {
+          "text": "A unit on Ferntree Gully Road, Mount Waverley"
+        },
+        {
+          "text": "A unit on Adrienne Crescent, Mount Waverley"
+        },
+        {
+          "text": "A house in Brunswick, Melbourne"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Victoria Police were called to a unit on Adrienne Crescent in Mount Waverley on the night of 11 August 2025, where officers found the bodies of a man and a woman; the arrest later occurred at Westall station. This is reported by ABC News.",
+      "source": "https://www.abc.net.au/news/2025-08-12/man-arrested-after-two-found-dead-mount-waverley/105640466"
+    },
+    {
+      "question": "How many runs did South Africa batter Dewald Brevis score in the second T20I against Australia at Marrara Stadium in Darwin on 12 August 2025?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "108"
+        },
+        {
+          "text": "125 not out"
+        },
+        {
+          "text": "91"
+        },
+        {
+          "text": "76"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dewald Brevis finished unbeaten on 125 (125 not out) off 56 balls in the second T20I at Marrara Stadium on 12 August 2025, helping South Africa to 218/7 and a 53‑run victory.",
+      "source": "https://www.cricket.com.au/news/4339263/copy-australia-south-africa-second-t20-international-t20i-darwin-marrara-stadium-toss-teams-result-scores-live-stream-details-kayo"
+    },
+    {
+      "question": "Approximately how many seats is the planned new main arena at the RNA Showgrounds regeneration expected to have?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "10,000 seats"
+        },
+        {
+          "text": "20,000 seats"
+        },
+        {
+          "text": "50,000 seats"
+        },
+        {
+          "text": "5,000 seats"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Multiple reputable news outlets and the Queensland government statement report the proposed new main arena at the RNA Showgrounds is planned to have roughly 20,000 seats. This is an announced/planning figure and could be refined as detailed design and approvals progress.",
+      "source": "https://www.brisbanetimes.com.au/national/queensland/centre-of-the-action-but-unlikely-to-host-any-olympic-competitions-20250325-p5lmgz.html?utm_source=chatgpt.com"
+    }
+  ],
+  "date": "2025-08-15",
+  "generatedAt": "2025-08-14T15:56:53.208Z"
+}
