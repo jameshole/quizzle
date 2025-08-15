@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "Which leader did NOT attend the in-person one-day Trump–Putin summit in Anchorage, Alaska on August 15, 2025?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "Joe Biden"
+        },
+        {
+          "text": "Emmanuel Macron"
+        },
+        {
+          "text": "Volodymyr Zelenskyy"
+        },
+        {
+          "text": "Boris Johnson"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ukrainian President Volodymyr Zelenskyy did not attend the in-person Anchorage summit between U.S. President Donald Trump and Russian President Vladimir Putin on Aug. 15, 2025. Zelenskyy was not part of the in-person talks (he took part in a prior virtual/preparatory call), and his exclusion was reported and criticized by Kyiv and some European leaders. (Sources: Reuters, Al Jazeera)",
+      "source": "https://www.reuters.com/world/europe/trump-will-seek-squeeze-ukraine-ceasefire-deal-out-putin-alaska-summit-2025-08-15/"
+    },
+    {
+      "question": "Which Philippine islands were specifically mentioned as locations for training during Exercise Alon 25?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "Mindanao and Samar"
+        },
+        {
+          "text": "Visayas and Mindoro"
+        },
+        {
+          "text": "Palawan and Luzon"
+        },
+        {
+          "text": "Cebu and Bohol"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Australian Department of Defence media release and independent news reports state that training for Exercise Alon 25 will take place around the Philippine islands of Palawan and Luzon between 15 and 29 August 2025.",
+      "source": "https://www.defence.gov.au/news-events/releases/2025-08-15/exercise-alon-25-begins-philippines"
+    },
+    {
+      "question": "How many people were arrested in the Victoria Police operation that dismantled an alleged organised retail‑theft syndicate in Melbourne?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "12"
+        },
+        {
+          "text": "25"
+        },
+        {
+          "text": "19"
+        },
+        {
+          "text": "30"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Victoria Police reported that 19 people were arrested as part of the Box Hill Divisional Response Unit operation that targeted the alleged organised retail‑theft syndicate (further arrests were expected and prosecutions pending).",
+      "source": "https://www.abc.net.au/news/2025-08-15/baby-formula-medicine-thefts-criminal-syndicate-melbourne/105657012"
+    },
+    {
+      "question": "Who was called into the Springboks' bench as a late replacement ahead of their 2025 Rugby Championship opener against Australia at Ellis Park?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "Jan-Hendrik Wessels"
+        },
+        {
+          "text": "Malcolm Marx"
+        },
+        {
+          "text": "Boan Venter"
+        },
+        {
+          "text": "Eben Etzebeth"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Boan Venter was named on the bench as a late replacement after Jan-Hendrik Wessels withdrew due to an injury sustained in training, according to Reuters and other outlets reporting the team update on Aug 15, 2025.",
+      "source": "https://www.reuters.com/sports/springboks-forced-into-late-bench-replacement-ahead-australia-clash-2025-08-15/"
+    },
+    {
+      "question": "Which Wiggles founding member and Blue Wiggle was named as a respondent in former CEO Luke O’Neill’s Federal Court unfair dismissal claim reported in August 2025?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "Jeff Fatt"
+        },
+        {
+          "text": "Emma Watkins"
+        },
+        {
+          "text": "Anthony Field"
+        },
+        {
+          "text": "Murray Cook"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Contemporaneous news reports (14–15 Aug 2025) state that Anthony Field — a founding member and the Blue Wiggle — was named as a respondent in Luke O’Neill’s Federal Court claim. These media accounts support the answer, though the primary court filing was not located in public court databases at the time of verification.",
+      "source": "https://www.news.com.au/entertainment/celebrity-life/wiggles-drama-hits-federal-court/news-story/456d47e5d599b793a72dc6c682585bd6"
+    }
+  ],
+  "date": "2025-08-16",
+  "generatedAt": "2025-08-15T15:54:07.277Z"
+}
