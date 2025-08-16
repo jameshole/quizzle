@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "In a Fox News interview aired Aug. 15, 2025, what did U.S. President Donald Trump say Chinese President Xi Jinping told him about Taiwan?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "Xi said China would never invade Taiwan under any circumstance."
+        },
+        {
+          "text": "Xi said China planned to annex Taiwan imminently."
+        },
+        {
+          "text": "Xi told Trump China would not invade Taiwan while Trump remained U.S. president."
+        },
+        {
+          "text": "Xi pledged to recognise Taiwanese independence."
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "In the Fox News interview (aired Aug. 15, 2025) Trump said Xi told him “I will never do it as long as you’re president,” which Trump characterised as an assurance China would not invade Taiwan while he is president. This is a report of Trump’s claim; Chinese authorities did not publicly corroborate the private remark in the cited reporting.",
+      "source": "https://www.reuters.com/world/china/trump-says-xi-told-him-china-will-not-invade-taiwan-while-he-is-us-president-2025-08-15/"
+    },
+    {
+      "question": "What magnitude did Geoscience Australia record for the earthquake that struck south‑east Queensland on the morning of 16 August 2025?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "4.2"
+        },
+        {
+          "text": "5.6"
+        },
+        {
+          "text": "6.8"
+        },
+        {
+          "text": "3.9"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Geoscience Australia measured the event at magnitude 5.6; the quake occurred about 9:49 a.m. AEST on 16 August 2025 with an epicentre near Kilkivan/Wrattens National Park and a reported depth of around 10 km.",
+      "source": "https://www.abc.net.au/news/2025-08-16/qld-earthquake-murgon-sunshine-coast-brisbane-geoscience-aus/105662170"
+    },
+    {
+      "question": "How many people were arrested during the Women Will Speak rally and associated counter‑protests in Melbourne on 16 August 2025?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "2"
+        },
+        {
+          "text": "4"
+        },
+        {
+          "text": "10"
+        },
+        {
+          "text": "0"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Victoria Police reported that four people were arrested during the clashes on 16 August 2025 — including a 21‑year‑old alleged to have struck an officer with an umbrella, two people allegedly in possession of flares, and one person for failing to move on.",
+      "source": "https://www.abc.net.au/news/2025-08-16/women-will-speak-rally-clashes-counter-protesters-melbourne/105662058"
+    },
+    {
+      "question": "What was the final score when the Wallabies stunned world champions South Africa at Ellis Park on 16 August 2025?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "Australia 22, South Africa 38"
+        },
+        {
+          "text": "Australia 30, South Africa 22"
+        },
+        {
+          "text": "Australia 38, South Africa 22"
+        },
+        {
+          "text": "Australia 38, South Africa 18"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Australia beat South Africa 38–22 in the Rugby Championship opener at Ellis Park on 16 August 2025, after coming back from a 22–5 half‑time deficit to score five unanswered tries in the second half.",
+      "source": "https://www.theguardian.com/sport/live/2025/aug/16/south-africa-springboks-australia-wallabies-rugby-championship-test-live-score-updates-ellis-park-stadium-johannesburg"
+    },
+    {
+      "question": "Which character was Melbourne-born actor Tristan Rogers best known for portraying on the US soap opera General Hospital?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "Luke Spencer"
+        },
+        {
+          "text": "Sonny Corinthos"
+        },
+        {
+          "text": "Robert Scorpio"
+        },
+        {
+          "text": "Jason Morgan"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Tristan Rogers was best known for playing the suave spy Robert Scorpio on General Hospital, a role he first appeared in in 1980 and reprised multiple times over the decades.",
+      "source": "https://apnews.com/article/1b143348f512a13452e57d6fee81ee59"
+    }
+  ],
+  "date": "2025-08-17",
+  "generatedAt": "2025-08-16T17:06:07.710Z"
+}
