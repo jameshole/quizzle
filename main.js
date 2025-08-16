@@ -14,6 +14,7 @@ let quizDate = null;
 
 // on document ready
 document.addEventListener("DOMContentLoaded", async function() {
+    setupTheme();
     // Load questions from date-based JSON file
     await loadQuizForDate();
 
@@ -25,6 +26,27 @@ document.addEventListener("DOMContentLoaded", async function() {
     document.getElementById("share-button").addEventListener("click", shareText);
     document.getElementById("copy-button").addEventListener("click", copyText);
 });
+
+function setupTheme() {
+    const deviceDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+    const theme = localStorage.getItem('theme') ?? (deviceDark ? 'dark' : 'light');
+    if (theme === 'dark') {
+        document.getElementsByTagName('body')[0].classList.add('dark');
+    }
+    document.getElementById('theme-toggle').addEventListener("click", toggleTheme);
+    localStorage.setItem('theme', theme);
+}
+
+function toggleTheme() {
+    const prevTheme = localStorage.getItem('theme');
+    const theme = prevTheme === 'dark' ? 'light' : 'dark';
+    if (theme === 'dark') {
+        document.getElementsByTagName('body')[0].classList.add('dark');
+    } else {
+        document.getElementsByTagName('body')[0].classList.remove('dark');
+    }
+    localStorage.setItem('theme', theme);
+}
 
 async function loadQuizForDate() {
     let daysBack = 0;

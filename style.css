@@ -11,6 +11,58 @@ html, body {
     color: #222;
 }
 
+body.dark {
+    background-color: #222;
+    color: white;
+}
+
+body.dark h2 {
+    color: black;
+}
+
+body.dark button {
+    background-color: #222;
+    color: #fff;
+}
+
+body.dark button.primary {
+    background-color: #fff;
+    color: #222;
+}
+
+body.dark h2.sports {
+    background-color: #fff;
+    color: #222;
+}
+
+body.dark .header button:hover {
+    color: #fff;
+}
+
+
+.header {
+    height: 50px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.header button {
+    appearance: none;
+    border: none;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+    padding: 0;
+    background-color: transparent;
+    color: black;
+}
+
+.header button:hover {
+    background-color: transparent;
+    color: black;
+}
+
 .splash-screen, .question, .final {
     padding: 1rem;
     box-sizing: border-box;
