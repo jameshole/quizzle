@@ -265,10 +265,10 @@ function displayFinal() {
 
 function getShareable() {
     return `Quizzle ${getFormattedDate()}
-    ${totalCorrect}/${questions.length}
+${totalCorrect}/${questions.length}
 
-    🌍🇦🇺📍⚽🎬
-    ${resultString}`;
+🌍🇦🇺📍⚽🎬
+${resultString}`;
 }
 
 function shareText() {
