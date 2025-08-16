@@ -79,6 +79,14 @@ body.dark .header button:hover {
     display: none;
 }
 
+.final {
+    text-align: center;
+}
+
+.final .results {
+    margin-bottom: 0;
+}
+
 h1 {
     text-align: center;
     margin: 0;

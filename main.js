@@ -24,7 +24,6 @@ document.addEventListener("DOMContentLoaded", async function() {
     document.getElementById("start-button").addEventListener("click", startQuiz);
     document.querySelector(".next").addEventListener("click", nextQuestion);
     document.getElementById("share-button").addEventListener("click", shareText);
-    document.getElementById("copy-button").addEventListener("click", copyText);
 });
 
 function setupTheme() {
@@ -233,32 +232,51 @@ function updateDisplay() {
     } else if (currentQuestionIndex === questions.length) {
         document.querySelector(".question").classList.add('hidden');
         document.querySelector(".final").classList.remove('hidden');
-        setShareable();
+        displayFinal();
     }
 }
 
-function setShareable() {
-    const shareable = `Quizzle ${getFormattedDate()}
-${totalCorrect}/${questions.length}
+function displayFinal() {
+    document.querySelector(".final h2").textContent = `${totalCorrect}/${questions.length}`;
+    document.querySelector(".final .results").textContent = resultString;
+    let comment = 'Flawless!';
+    switch(totalCorrect) {
+        case 0:
+            comment = 'Better luck next time.'
+            break;
+        case 1:
+            comment = 'Good try.'
+            break;
+        case 2:
+            comment = 'Not bad.'
+            break;
+        case 3:
+            comment = 'Fair effort.'
+            break;
+        case 4:
+            comment = 'Great job!'
+            break;
+        case 5:
+            comment = 'Flawless!'
+        break;
+    }
+    document.querySelector(".final .comment").textContent = comment;
+}
 
-🌍🇦🇺📍⚽🎬
-${resultString}
-`;
-    document.querySelector("#shareable").textContent = shareable;
+function getShareable() {
+    return `Quizzle ${getFormattedDate()}
+    ${totalCorrect}/${questions.length}
+
+    🌍🇦🇺📍⚽🎬
+    ${resultString}`;
 }
 
 function shareText() {
-    const shareableText = document.querySelector("#shareable").textContent;
     if (navigator.share) {
         navigator.share({
-            text: shareableText
+            text: getShareable()
         });
     }
-}
-
-function copyText() {
-    const shareableText = document.querySelector("#shareable").textContent;
-    navigator.clipboard.writeText(shareableText);
 }
 
 function getSaveKey() {
