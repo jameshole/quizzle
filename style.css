@@ -39,6 +39,10 @@ body.dark .header button:hover {
     color: #fff;
 }
 
+body.dark .final h2 {
+    color: #fff;
+}
+
 
 .header {
     height: 50px;
