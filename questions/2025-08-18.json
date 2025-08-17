@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "Which paramilitary force was blamed for the August 16, 2025 artillery strike on the Abu Shouk displacement camp in North Darfur?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "Sudanese Armed Forces (SAF)"
+        },
+        {
+          "text": "Rapid Support Forces (RSF)"
+        },
+        {
+          "text": "United Nations peacekeepers"
+        },
+        {
+          "text": "Islamic State (ISIS)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Local medical groups and first responders blamed the Rapid Support Forces (RSF) for the heavy artillery shelling on August 16, 2025, that struck the Abu Shouk IDP camp and nearby areas of El Fasher, killing at least 31 people.",
+      "source": "https://apnews.com/article/b60f084f82ca2a519993a7973b9c64c6"
+    },
+    {
+      "question": "What did Tasmania's Liberal government announce on 17 August 2025 regarding the state's Atlantic salmon farming industry?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "An immediate, permanent ban on salmon farming in Tasmanian waters"
+        },
+        {
+          "text": "A pause on any further marine expansion of Atlantic salmon farming and an independent 'off‑island' review"
+        },
+        {
+          "text": "Approval of a plan to double the number of salmon farm sites across Tasmania"
+        },
+        {
+          "text": "Transfer of regulatory control of the salmon industry to the Australian federal government"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "On 17 August 2025 Premier Jeremy Rockliff announced the government would pause further marine expansion of the state's Atlantic salmon farms and commission an independent 'off‑island' review, alongside plans for a new Marine Environment Act and increased EPA resourcing. The move was linked to renewed evidence of elevated levels of the bacterium Piscirickettsia salmonis at some farms and came ahead of a crucial parliamentary sitting.",
+      "source": "https://www.abc.net.au/news/2025-08-17/tasmanian-salmon-industry-expansion-pause-as-review-ordered/105663820"
+    },
+    {
+      "question": "How much did VicGrid’s final Victorian Transmission Plan (VTP) estimate the cost of the flagged transmission and Renewable Energy Zone work?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "$15 billion"
+        },
+        {
+          "text": "$7.9 billion"
+        },
+        {
+          "text": "$28 billion"
+        },
+        {
+          "text": "$3.2 billion"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "VicGrid’s final VTP is reported as estimating about $7.9 billion for the flagged transmission and Renewable Energy Zone connection work. The $28 billion figure appears in media coverage as an alternative estimate from an independent expert (Bruce Mountain) of the likely broader/true cost, but it is not the figure published by VicGrid in the VTP. The other options are not VicGrid’s published estimate.",
+      "source": "https://www.abc.net.au/news/2025-08-17/vic-victorian-renewable-energy-final-proposal/105663924"
+    },
+    {
+      "question": "Who scored an unbeaten 62 off 36 and was named player of the match in Australia's series‑deciding T20 win over South Africa at Cairns on 16 August 2025?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "Mitchell Marsh"
+        },
+        {
+          "text": "Glenn Maxwell"
+        },
+        {
+          "text": "Dewald Brevis"
+        },
+        {
+          "text": "Nathan Ellis"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Glenn Maxwell finished unbeaten on 62 off 36 balls and was named player of the match as Australia chased 173 to win the third T20 in Cairns on 16 August 2025, sealing the series 2–1.",
+      "source": "https://www.espn.com/cricket/series/23268/scorecard/1478900/australia-vs-south-africa-3rd-t20i-south-africa-australia-2025"
+    },
+    {
+      "question": "Who was crowned Miss Universe Australia 2025 at the national final held at Crown Perth?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "Ivy Prempeh"
+        },
+        {
+          "text": "Lexie Brant"
+        },
+        {
+          "text": "Cara Mooney"
+        },
+        {
+          "text": "Bianca Black"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lexie Brant, a 21‑year‑old occupational‑therapy student and model from Brisbane, was announced as Miss Universe Australia 2025 at the national final at Crown Perth on 15 August 2025; Ivy Prempeh was first runner‑up and Cara Mooney and Bianca Black were other top‑5 finalists.",
+      "source": "https://www.pageantcircle.com/2025/08/final-results-miss-universe-australia-2025-is-lexie-brant-from-brisbane-for-miss-universe-2025.html"
+    }
+  ],
+  "date": "2025-08-18",
+  "generatedAt": "2025-08-17T15:55:03.236Z"
+}
