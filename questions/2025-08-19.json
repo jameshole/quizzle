@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "Which European leader joined or signalled they would join Ukrainian President Volodymyr Zelenskyy in Washington to press for “Article‑5‑like” security guarantees?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "Justin Trudeau"
+        },
+        {
+          "text": "Ursula von der Leyen"
+        },
+        {
+          "text": "Angela Merkel"
+        },
+        {
+          "text": "Pedro Sánchez"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "European Commission President Ursula von der Leyen publicly said she would travel to Washington to join Zelenskyy and welcomed the idea of “Article‑5‑like” security guarantees. Reuters reported on Aug 17–18, 2025 that von der Leyen was among the European leaders who joined or signalled they would join Zelenskyy for the White House talks; Justin Trudeau, Angela Merkel and Pedro Sánchez were not reported as joining or signalling they would join for that meeting.",
+      "source": "https://www.reuters.com/world/europe/europeans-back-zelenskiy-washington-trump-presses-ukraine-deal-2025-08-17/"
+    },
+    {
+      "question": "Of the A$90 million civil penalty ordered against Qantas by the Federal Court on 18 August 2025, how much was directed to be paid to the Transport Workers' Union (TWU)?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "A$40 million"
+        },
+        {
+          "text": "A$50 million"
+        },
+        {
+          "text": "A$90 million"
+        },
+        {
+          "text": "A$120 million"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Justice Michael Lee ordered a A$90 million civil penalty and directed that A$50 million of that be paid to the Transport Workers' Union (TWU). The remaining A$40 million was left for determination at a later hearing.",
+      "source": "https://www.abc.net.au/news/2025-08-18/qantas-fined-in-federal-court-job-outsourcing-penalty/105659978"
+    },
+    {
+      "question": "How many alleged offenders smashed a window and entered the Kew East (Oxford Street) home at about 4:00am on 17 August 2025?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "Two"
+        },
+        {
+          "text": "Five"
+        },
+        {
+          "text": "Six"
+        },
+        {
+          "text": "Seven"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Police reports state five people smashed a large window and entered the Oxford Street, Kew East house at about 4:00am on 17 August 2025. (Three people were later arrested/charged and four reportedly fled in the family's car, but those numbers refer to arrests/fleeing, not the number who entered.)",
+      "source": "https://www.abc.net.au/news/2025-08-18/vic-three-charged-over-alleged-kew-home-invasion-stabbing/105665518"
+    },
+    {
+      "question": "Which Adelaide Crows player was reported to be under investigation by the AFL Integrity Unit over an alleged on-field homophobic slur during the Round 23 win over Collingwood on 16 August 2025?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "Taylor Walker"
+        },
+        {
+          "text": "Izak Rankine"
+        },
+        {
+          "text": "Rory Sloane"
+        },
+        {
+          "text": "Charlie Cameron"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "News reports published 17–18 August 2025 identify Izak Rankine as the Adelaide Crows player under investigation by the AFL Integrity Unit in relation to an alleged on-field homophobic slur during the Round 23 match on 16 August 2025. Reporting frames this as an allegation and an inquiry; no finding or sanction had been reported at that time.",
+      "source": "https://www.abc.net.au/news/2025-08-18/izak-rankine-adelaide-crows-investigation-for-alleged-incident/105665840"
+    },
+    {
+      "question": "Which former Australian Survivor contestant was announced on August 18, 2025 as the new host of Australian Survivor, replacing Jonathan LaPaglia?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "Osher Günsberg"
+        },
+        {
+          "text": "Sophie Monk"
+        },
+        {
+          "text": "David Genat"
+        },
+        {
+          "text": "Jonathan LaPaglia"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Entertainment outlets reported on August 18, 2025 that former Survivor AU contestant and All‑Stars winner David Genat will take over hosting duties from Jonathan LaPaglia; Genat is already on set in Samoa to host the upcoming season titled Australian Survivor: Redemption.",
+      "source": "https://ew.com/tv/australian-survivor-names-former-winner-david-genat-as-new-host-11792538"
+    }
+  ],
+  "date": "2025-08-19",
+  "generatedAt": "2025-08-18T16:01:14.118Z"
+}
