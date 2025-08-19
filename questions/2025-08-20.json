@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "Following the Aug. 18, 2025 White House meeting with Ukraine's Volodymyr Zelenskyy (and in subsequent remarks), what did U.S. President Donald Trump say about sending U.S. ground troops to Ukraine?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "He ruled out sending U.S. ground troops to Ukraine."
+        },
+        {
+          "text": "He announced immediate deployment of U.S. ground combat brigades to Ukraine."
+        },
+        {
+          "text": "He said U.S. ground troops would serve as NATO peacekeepers in Ukraine."
+        },
+        {
+          "text": "He committed to stationing U.S. trainers and combat troops permanently in eastern Ukraine."
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": "Reporting from Aug. 18–19, 2025 indicates Trump said the U.S. would help provide security guarantees for Ukraine but would not put “American boots on the ground” — a public assurance given in follow-up remarks (Aug. 19) after the Aug. 18 meeting. The other options (immediate brigade deployment, U.S. ground NATO peacekeepers, permanent stationing of U.S. trainers/combat troops in eastern Ukraine) did not occur and were not announced in the cited reporting.",
+      "source": "https://www.reuters.com/business/aerospace-defense/us-would-help-assure-ukraines-security-peace-deal-trump-tells-zelenskiy-2025-08-18/"
+    },
+    {
+      "question": "By which date did Santos say the ADNOC‑led consortium would not be able to finalise its takeover offer?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "Aug. 22, 2025"
+        },
+        {
+          "text": "Aug. 25, 2025"
+        },
+        {
+          "text": "Sept. 22, 2025"
+        },
+        {
+          "text": "Aug. 18, 2025"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": "Santos told investors it “does not expect the parties to enter into a binding SIA by Friday 22 August 2025,” meaning the ADNOC‑led consortium would not be able to finalise the takeover by Aug. 22, 2025. Aug. 25, 2025 is the date Santos deferred its interim results to and is not the takeover finalisation deadline; Sept. 22 and Aug. 18 were not cited as deadlines in the announcement.",
+      "source": "https://www.reuters.com/business/energy/australias-santos-flags-delay-finalising-adnoc-led-offer-beyond-august-22-2025-08-19/"
+    },
+    {
+      "question": "Which Victorian politician diverted to the scene of the Dandenong BP service station assault and held an impromptu press conference?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "Daniel Andrews"
+        },
+        {
+          "text": "Jacinta Allan"
+        },
+        {
+          "text": "Brad Battin"
+        },
+        {
+          "text": "Colin Brooks"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Victoria Liberal leader Brad Battin diverted to the Dandenong BP service station scene and held an impromptu press conference about the fatal assault; his presence drew criticism from government ministers. Reporting from multiple outlets on 19 Aug 2025 confirms this.",
+      "source": "https://www.theguardian.com/australia-news/2025/aug/19/victoria-liberal-leader-brad-battin-press-conference-from-scene-of-fatal-stabbing-ntwnfb?utm_source=chatgpt.com"
+    },
+    {
+      "question": "Under the U.S. Open's reimagined mixed-doubles event for 2025, what is the winners' team prize (total)?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "$250,000"
+        },
+        {
+          "text": "$1,000,000"
+        },
+        {
+          "text": "$500,000"
+        },
+        {
+          "text": "$2,000,000"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Official U.S. Open and major media reporting list the mixed-doubles champions' prize as $1,000,000 for the winning team. (Note: that $1,000,000 is the team total and would typically be split between the two players, resulting in about $500,000 each.)",
+      "source": "https://www.reuters.com/sports/tennis/us-opens-reimagined-mixed-doubles-puts-singles-stars-spotlight-2025-08-18/"
+    },
+    {
+      "question": "On which date was the BBC's one‑off documentary Ozzy Osbourne: Coming Home scheduled to air before it was pulled hours before broadcast?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "22 July 2025"
+        },
+        {
+          "text": "14 August 2025"
+        },
+        {
+          "text": "18 August 2025"
+        },
+        {
+          "text": "25 August 2025"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "The BBC postponed the one‑off documentary hours before it was due to air on Monday 18 August 2025 (scheduled for 9pm BST on BBC One / iPlayer), saying it had acted to ‘respect the family’s wishes’.",
+      "source": "https://www.theguardian.com/music/2025/aug/19/bbc-delayed-ozzy-osbourne-documentary-family-request"
+    }
+  ],
+  "date": "2025-08-20",
+  "generatedAt": "2025-08-19T18:41:05.704Z"
+}
