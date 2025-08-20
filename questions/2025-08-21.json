@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "According to recent reporting, which countries were the primary mediators of the roughly 60‑day truce and hostage‑release proposal that Hamas said it accepted?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "United States and United Kingdom"
+        },
+        {
+          "text": "Egypt and Qatar"
+        },
+        {
+          "text": "Turkey and Iran"
+        },
+        {
+          "text": "Saudi Arabia and the United Arab Emirates"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Multiple major news outlets report the roughly 60‑day truce and hostage‑release proposal that Hamas said it accepted was presented by mediators from Egypt and Qatar (with U.S. backing mentioned in some accounts).",
+      "source": "https://www.reuters.com/world/middle-east/israel-weighs-hamas-offer-60-day-gaza-truce-hostage-release-2025-08-19/"
+    },
+    {
+      "question": "What did Prime Minister Anthony Albanese announce on Aug. 11, 2025 regarding Palestine?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "Australia would immediately sever diplomatic ties with Israel."
+        },
+        {
+          "text": "Australia would recognise a Palestinian state only after a negotiated peace settlement."
+        },
+        {
+          "text": "Australia would formally recognise a Palestinian state at the UN General Assembly in September, subject to conditions."
+        },
+        {
+          "text": "Australia would send Australian troops to enforce a ceasefire in Gaza."
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "On 11 August 2025 Prime Minister Anthony Albanese announced Australia would formally recognise the State of Palestine at the United Nations General Assembly in September, and that recognition was predicated on commitments received from the Palestinian Authority (including measures such as excluding Hamas from governance, demilitarisation, recognition of Israel, and holding elections). This was a political/diplomatic recognition planned for the UNGA and does not by itself confer UN membership.",
+      "source": "https://www.pm.gov.au/media/australia-recognise-palestinian-state"
+    },
+    {
+      "question": "Which body moved to temporarily suspend the licence of the Love Machine nightclub in Prahran after police intelligence about a possible planned attack?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "Victoria Police"
+        },
+        {
+          "text": "Victorian Liquor Commission"
+        },
+        {
+          "text": "City of Stonnington Council"
+        },
+        {
+          "text": "Australian Federal Police"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Victorian Liquor Commission issued the rare, temporary (three‑day) suspension of the Love Machine's licence following police intelligence and recent violent incidents. Victoria Police provided the intelligence and lodged an application/recommendation with the regulator, but did not themselves issue the licence suspension.",
+      "source": "https://www.heraldsun.com.au/news/victoria/love-machine-nightclub-ordered-to-close-its-doors-amid-growing-fears-of-violence/news-story/af76b8ca35cbf948c26500d23e8bfa9e"
+    },
+    {
+      "question": "Which South African bowler took a career-best 5–33 (his first ODI five‑wicket haul) to help South Africa beat Australia by 98 runs in Cairns on Aug. 19, 2025?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "Kagiso Rabada"
+        },
+        {
+          "text": "Anrich Nortje"
+        },
+        {
+          "text": "Keshav Maharaj"
+        },
+        {
+          "text": "Tabraiz Shamsi"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Keshav Maharaj took 5 for 33 (his first ODI five‑for and career‑best ODI figures) and was named player of the match as South Africa won by 98 runs in the Cairns ODI on Aug. 19, 2025.",
+      "source": "https://africa.espn.com/cricket/series/23268/report/1478901/australia-vs-south-africa-1st-odi-south-africa-in-australia-2025?utm_source=chatgpt.com"
+    },
+    {
+      "question": "Which promoter cancelled the sold-out Soulshine at Sea 3 cruise (scheduled for Nov. 4–8, 2025) after multiple artists withdrew following abuse allegations?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "Live Nation"
+        },
+        {
+          "text": "AEG Presents"
+        },
+        {
+          "text": "Sixthman"
+        },
+        {
+          "text": "Frontier Touring"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sixthman, the cruise promoter/producer behind the Soulshine at Sea events, announced the cancellation of the sold-out Soulshine at Sea 3 after several artists withdrew in the wake of abuse/grooming allegations; industry coverage and the event's official notice reported the cancellation in mid‑August 2025.",
+      "source": "https://news.pollstar.com/2025/08/18/after-multiple-artists-withdraw-soulshine-at-sea-cancels/?utm_source=chatgpt.com"
+    }
+  ],
+  "date": "2025-08-21",
+  "generatedAt": "2025-08-20T15:58:14.124Z"
+}
