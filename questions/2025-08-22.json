@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "Around Aug. 20–21, 2025, Israel announced it would call up approximately how many reservists as it prepared to expand operations around Gaza City?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "10,000"
+        },
+        {
+          "text": "60,000"
+        },
+        {
+          "text": "100,000"
+        },
+        {
+          "text": "5,000"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Reports from Aug. 20–21, 2025 state the Israel Defence Forces announced plans to call up about 60,000 reservists (and extend the service of roughly 20,000 already on duty) as part of preparations for a larger operation around Gaza City.",
+      "source": "https://www.reuters.com/world/middle-east/israel-maintains-military-pressure-gaza-city-ahead-planned-offensive-2025-08-21/"
+    },
+    {
+      "question": "Who called Israel’s revocation of visas for Australian representatives to the Palestinian Authority “an unjustified reaction”?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "Anthony Albanese"
+        },
+        {
+          "text": "Penny Wong"
+        },
+        {
+          "text": "Benjamin Netanyahu"
+        },
+        {
+          "text": "Gideon Sa’ar"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Australia’s Minister for Foreign Affairs, Penny Wong, issued a media release on 19 August 2025 describing Israel’s decision to revoke visas for Australian diplomatic staff accredited to the Palestinian Authority as “an unjustified reaction.”",
+      "source": "https://www.foreignminister.gov.au/minister/penny-wong/media-release/statement-israeli-governments-decision-revoke-visas-australian-diplomats-occupied-palestinian-territories"
+    },
+    {
+      "question": "On what date did investigators allege the Adass Israel Synagogue in Ripponlea was deliberately set alight?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "21 August 2025"
+        },
+        {
+          "text": "6 December 2024"
+        },
+        {
+          "text": "14 August 2025"
+        },
+        {
+          "text": "21 November 2024"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Police and reporting state the building was gutted in a blaze in the early hours of Friday 6 December 2024; the other dates relate to later investigation events (search warrant, charging) or a separate alleged arson and are not the date the synagogue was alleged to have been set alight.",
+      "source": "https://www.abc.net.au/news/2025-08-21/second-man-charged-adass-israel-synagogue-arson-ripponlea/105682132"
+    },
+    {
+      "question": "Who was named to captain the Wallabies for the second Rugby Championship Test in Cape Town after Harry Wilson was ruled out with injury?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "Rob Valetini"
+        },
+        {
+          "text": "Nic White"
+        },
+        {
+          "text": "Fraser McReight"
+        },
+        {
+          "text": "James O'Connor"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Fraser McReight was named to captain Australia for the second Test after skipper Harry Wilson was ruled out; Rob Valetini returned to the starting XV at No.8 but was not named captain.",
+      "source": "https://www.reuters.com/sports/wilson-out-second-test-valetini-returns-face-springboks-2025-08-21/"
+    },
+    {
+      "question": "Which company staged the family circus/theatre piece \"Duck Pond\" as part of the Darwin Festival's closing program?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "Circa"
+        },
+        {
+          "text": "Bangarra Dance Theatre"
+        },
+        {
+          "text": "Sydney Dance Company"
+        },
+        {
+          "text": "Circus Oz"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": "Circa is the company that created and presented Duck Pond at the Darwin Festival (performances listed Thu 21 – Fri 22 Aug 2025). Festival and Circa materials credit Circa as the producing company; the other listed companies did not stage Duck Pond.",
+      "source": "https://www.darwinfestival.org.au/events/duck-pond/?utm_source=chatgpt.com"
+    }
+  ],
+  "date": "2025-08-22",
+  "generatedAt": "2025-08-21T15:56:20.976Z"
+}
