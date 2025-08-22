@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "Which area did the UN-backed Integrated Food Security Phase Classification (IPC) conclude was experiencing famine in its 22 August 2025 announcement?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "Gaza City and surrounding areas (Gaza Governorate)"
+        },
+        {
+          "text": "Rafah (southern Gaza)"
+        },
+        {
+          "text": "Khan Younis (southern Gaza)"
+        },
+        {
+          "text": "The West Bank"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": "On 22 August 2025 the joint IPC/UN agency analysis confirmed famine in the Gaza Governorate (centered on Gaza City and surrounding areas). The report projected famine could spread to central and southern Gaza (including Deir al‑Balah and Khan Younis) later, but Rafah was not analysed and the West Bank was not identified as experiencing famine in that announcement.",
+      "source": "https://www.who.int/news/item/22-08-2025-famine-confirmed-for-first-time-in-gaza"
+    },
+    {
+      "question": "According to Australia’s Defence Minister, how many defence-related infrastructure projects is Australia pursuing in the Philippines as part of the Statement of Intent? (Number of projects — not the number of locations.)",
+      "category": "National",
+      "answers": [
+        {
+          "text": "Five"
+        },
+        {
+          "text": "Ten"
+        },
+        {
+          "text": "Eight"
+        },
+        {
+          "text": "Three"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "At the joint press conference on 22 August 2025, Australia’s Defence Minister said Australia is pursuing eight different infrastructure projects across five different locations in the Philippines as part of deeper defence cooperation; the quiz asks for the number of projects (eight).",
+      "source": "https://www.minister.defence.gov.au/transcripts/2025-08-22/joint-press-conference-gilberto-teodoro-jr-secretary-national-defense-philippines?utm_source=chatgpt.com"
+    },
+    {
+      "question": "Which charges were laid against the 20‑year‑old Meadow Heights man on 21 August 2025 over the Ripponlea Adass Israel synagogue attack?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "A terrorism offence, affray and a public order offence"
+        },
+        {
+          "text": "Burglary, possession of an illegal firearm and assault"
+        },
+        {
+          "text": "Arson (criminal damage by fire), conduct endangering life and motor‑vehicle theft"
+        },
+        {
+          "text": "Arson (criminal damage by fire) only"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "According to the AFP media release and contemporaneous reporting, the 20‑year‑old Meadow Heights man was charged on 21 August 2025 with arson (criminal damage by fire), conduct endangering life and theft of a motor vehicle.",
+      "source": "https://www.afp.gov.au/news-centre/media-release/victorian-jctt-charge-second-man-over-alleged-role-melbourne-synagogue"
+    },
+    {
+      "question": "Which Fremantle staff member was identified as wearing all black and drinking a coffee when asked to leave a Western Bulldogs training session on 22 August 2025?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "Geoff Valentine"
+        },
+        {
+          "text": "Sam Naismith"
+        },
+        {
+          "text": "Daniel Pratt"
+        },
+        {
+          "text": "Justin Longmuir"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sam Naismith, Fremantle’s ruck/development coach, was reported as the man in all black (including a black cap) holding a coffee who was approached and asked to leave the Western Bulldogs’ training session on 22 Aug 2025. A second Fremantle staffer was also reportedly asked to leave (named in some outlets as Geoff Valentine), but the clothing/coffee description specifically identifies Naismith.",
+      "source": "https://www.abc.net.au/news/2025-08-22/afl-sam-naismith-bulldogs-training-session-fremantle-/105685590"
+    },
+    {
+      "question": "Which country formally banned Belfast hip‑hop trio Kneecap from entering ahead of their planned slot at the Sziget festival?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "France"
+        },
+        {
+          "text": "United Kingdom"
+        },
+        {
+          "text": "Hungary"
+        },
+        {
+          "text": "Ireland"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hungary formally issued an entry ban on the three members of Kneecap (announced 24 July 2025), blocking their planned appearance at the Sziget festival; this action was widely reported and sits at the centre of summer 2025 cancellations and festival disputes. France, the UK and Ireland did not issue national entry bans against the band.",
+      "source": "https://www.theguardian.com/world/2025/aug/22/kneecap-press-on-european-tour-hungary-ban-cancelled-gigs?utm_source=chatgpt.com"
+    }
+  ],
+  "date": "2025-08-23",
+  "generatedAt": "2025-08-22T15:56:56.757Z"
+}
