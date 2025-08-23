@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "At approximately what time did FBI agents begin searching John Bolton's Bethesda residence on Aug. 22, 2025?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "About 3:00 a.m. ET"
+        },
+        {
+          "text": "About 7:00 a.m. ET"
+        },
+        {
+          "text": "About 12:00 p.m. (noon) ET"
+        },
+        {
+          "text": "About 9:00 p.m. ET"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Multiple major news outlets report that FBI agents began searching Bolton’s Bethesda residence in the early morning, described as “around 7 a.m.” ET on Aug. 22, 2025. Reporting is consistent that the operation began in the early morning rather than at 3:00 a.m., noon, or 9:00 p.m.",
+      "source": "https://www.washingtonpost.com/national-security/2025/08/22/bolton-home-fbi-search-trump/"
+    },
+    {
+      "question": "According to The Guardian's reporting, on which date is the Australia–Papua New Guinea bilateral defence treaty expected to be signed?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "11 June 2025"
+        },
+        {
+          "text": "12 August 2025"
+        },
+        {
+          "text": "15 September 2025"
+        },
+        {
+          "text": "16 September 2025"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Guardian’s report states the treaty is set to be signed on 15 September 2025. Note: other authoritative sources (for example, an official transcript of Australian Defence Minister Richard Marles’ remarks) refer to signing on PNG’s 50th independence day (16 September 2025), so the exact date in public reporting is not definitively settled. This question is explicitly asking for The Guardian’s reported date.",
+      "source": "https://www.theguardian.com/world/2025/aug/23/diplomatic-knife-fight-over-png-enters-new-phase-with-deepening-australia-defence-deal"
+    },
+    {
+      "question": "According to reporting on the Truganina home‑invasion stabbing on 23 August 2025, approximately how many people allegedly forced their way into the short‑stay rental?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "2–3 people"
+        },
+        {
+          "text": "Around 8–10 people"
+        },
+        {
+          "text": "4–5 people"
+        },
+        {
+          "text": "12–15 people"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Contemporary news reports and police accounts state that about 8–10 offenders allegedly forced their way into the short‑stay rental in Truganina. This is the figure reported by ABC and other local outlets; other numeric ranges in the options are not supported by the cited coverage. Note this is an initial/police estimate and could be revised as the investigation continues.",
+      "source": "https://www.abc.net.au/news/2025-08-23/police-investigate-multiple-stabbings-in-truganina/105688780"
+    },
+    {
+      "question": "Who was named to captain the Wallabies for the second Test against South Africa in Cape Town on Aug 23, 2025 after Harry Wilson was ruled out?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "James O'Connor"
+        },
+        {
+          "text": "Fraser McReight"
+        },
+        {
+          "text": "Nic White"
+        },
+        {
+          "text": "Rob Valetini"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fraser McReight was named as the Wallabies' stand-in captain for the Aug 23, 2025 Test in Cape Town after Harry Wilson was unavailable. Reuters and the Rugby Australia team announcement reported McReight would captain the side for that match.",
+      "source": "https://www.reuters.com/sports/quiet-captain-wont-change-ways-after-being-appointed-new-wallabies-leader-2025-08-22/"
+    },
+    {
+      "question": "On what date did Peacemaker season 2 premiere on HBO Max in the United States?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "August 15, 2025"
+        },
+        {
+          "text": "August 21, 2025"
+        },
+        {
+          "text": "August 22, 2025"
+        },
+        {
+          "text": "September 1, 2025"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Peacemaker season 2 premiered on the U.S. streaming service (Max/HBO Max) on August 21, 2025. Official Max press materials and major outlets list the U.S. premiere as Aug. 21, 2025; Aug. 22 applies to some international markets or local time zones but is not the U.S. premiere date.",
+      "source": "https://press.wbd.com/na/media-release/max/season-two-max-original-series-peacemaker-dc-studios-debuts-august-21?utm_source=chatgpt.com"
+    }
+  ],
+  "date": "2025-08-24",
+  "generatedAt": "2025-08-23T15:55:05.750Z"
+}
