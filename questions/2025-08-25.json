@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "On which date did the UN-backed Integrated Food Security Phase Classification (IPC) announce that famine was occurring in Gaza Governorate, including Gaza City?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "24 August 2025"
+        },
+        {
+          "text": "22 August 2025"
+        },
+        {
+          "text": "7 October 2023"
+        },
+        {
+          "text": "1 September 2025"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "The IPC famine finding was published on 22 August 2025, and UN agencies (FAO, WFP, WHO and UNICEF) issued joint statements the same day confirming famine in Gaza Governorate (including Gaza City).",
+      "source": "https://www.who.int/news/item/22-08-2025-famine-confirmed-for-first-time-in-gaza"
+    },
+    {
+      "question": "Organisers of the Aug. 24, 2025 nationwide pro‑Palestine rallies in Australia claimed approximately how many participants across the country?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "About 50,000"
+        },
+        {
+          "text": "About 150,000"
+        },
+        {
+          "text": "About 300,000–350,000"
+        },
+        {
+          "text": "About 1,000,000"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Organisers’ nationwide attendance figures were reported in the range of roughly 300,000–350,000 for the Aug. 24, 2025 rallies; some outlets cite about 300,000 while others cite about 350,000. Police estimates for individual cities were substantially lower (for example, organisers said about 50,000 in Brisbane while police gave a much lower figure for that city), which accounts for the discrepancy in reporting.",
+      "source": "https://www.reuters.com/world/asia-pacific/widespread-protests-held-australia-support-palestinians-2025-08-24/"
+    },
+    {
+      "question": "On 24 August 2025, where did the major Melbourne pro‑Palestine demonstration gather before marching through the city?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "Federation Square"
+        },
+        {
+          "text": "State Library of Victoria"
+        },
+        {
+          "text": "Flinders Street Station"
+        },
+        {
+          "text": "Melbourne Town Hall"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Multiple news reports (ABC, AP and other outlets) state that Melbourne’s large pro‑Palestine rally on 24 August 2025 assembled at the State Library of Victoria before marching through the CBD.",
+      "source": "https://www.abc.net.au/news/2025-08-24/pro-palestian-rallies-protest-brisbane-melbourne-sydney/105690512?utm_source=chatgpt.com"
+    },
+    {
+      "question": "How many balls did Cameron Green take to reach his century in Australia's 431/2 against South Africa at Mackay on 24 August 2025?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "36 balls"
+        },
+        {
+          "text": "55 balls"
+        },
+        {
+          "text": "47 balls"
+        },
+        {
+          "text": "72 balls"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cameron Green reached his hundred in 47 balls during Australia's innings of 431/2 in the third ODI at Mackay on 24 August 2025. He finished unbeaten 118 off 55 balls, so 55 is his total balls faced in the innings, not the number taken to reach his century.",
+      "source": "https://www.espn.com/cricket/series/23268/report/1478903/australia-vs-south-africa-3rd-odi-south-africa-in-australia-2025"
+    },
+    {
+      "question": "On which date is Doja Cat scheduled to perform at Rod Laver Arena in Melbourne on the Ma Vie World Tour (Australia & New Zealand leg)?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "22 November 2025"
+        },
+        {
+          "text": "1 December 2025"
+        },
+        {
+          "text": "25 November 2025"
+        },
+        {
+          "text": "29 November 2025"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Live Nation's announcement of the Ma Vie World Tour and the Rod Laver Arena event listing show Doja Cat performing at Rod Laver Arena, Melbourne on 25 November 2025. The other dates listed correspond to different Australian tour stops (Perth, Sydney, Brisbane).",
+      "source": "https://news.livenation.asia/news/doja-cat-announces-first-ever-arena-tour-dates-across-new-zealand-and-australia-on-ma-vie-world-tour?utm_source=chatgpt.com"
+    }
+  ],
+  "date": "2025-08-25",
+  "generatedAt": "2025-08-24T15:55:27.399Z"
+}
