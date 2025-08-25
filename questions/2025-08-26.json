@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "Following Ukraine's large drone strikes overnight into Aug. 24, 2025, roughly how many drones did Russian officials (the Russian defence ministry) say they intercepted?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "About 20"
+        },
+        {
+          "text": "About 50"
+        },
+        {
+          "text": "About 95"
+        },
+        {
+          "text": "About 150"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Russia’s defence ministry publicly said it intercepted “at least 95” Ukrainian drones during the Aug. 24 (overnight) strikes. News outlets reported this as the Russian official figure; it is an official claim and not independently verified.",
+      "source": "https://www.reuters.com/world/europe/ukraine-drone-hits-russian-nuclear-plant-sparks-huge-fire-novateks-ust-luga-2025-08-24/?utm_source=chatgpt.com"
+    },
+    {
+      "question": "Under the Albanese government's accelerated expansion of the Home Guarantee scheme, effective 1 October 2025, what is the new property price cap for NSW capital/regional centres (Sydney)?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "$1,500,000"
+        },
+        {
+          "text": "$2,000,000"
+        },
+        {
+          "text": "$1,250,000"
+        },
+        {
+          "text": "$600,000"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": "Housing Australia’s official media release for the expanded Home Guarantee (effective 1 October 2025) sets the NSW capital/regional centre cap at $1,500,000. Distractor amounts were chosen to avoid numbers that correspond to the announced caps for other capitals (e.g., $950,000 for Melbourne, $1,000,000 for Brisbane/ACT) which could cause confusion.",
+      "source": "https://www.housingaustralia.gov.au/media/unlimited-places-higher-property-price-caps-first-home-buyers-1-october-2025"
+    },
+    {
+      "question": "According to Victoria Police (reported 24–25 Aug 2025), which vehicle description were they searching for in the Coburg hit‑and‑run that killed a man on Moreland Road?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "A dark‑coloured ute with rear‑end damage"
+        },
+        {
+          "text": "A light‑coloured (white or silver) European small‑to‑mid‑sized SUV with likely damage to the front and passenger side"
+        },
+        {
+          "text": "A red compact hatchback with no visible damage"
+        },
+        {
+          "text": "A large black sedan with a roof rack"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Victoria Police said investigators believe the offending vehicle was a light‑coloured (white or silver) European small‑to‑mid‑sized SUV that would have visible damage to the front and passenger side. This description was given by police in media briefings reported 24–25 Aug 2025 and is a working description rather than a forensic confirmation.",
+      "source": "https://www.abc.net.au/news/2025-08-25/coburg-fatal-hit-and-run/105692208?utm_source=chatgpt.com"
+    },
+    {
+      "question": "On what date is NRL player Brandon Smith due to appear at Southport Magistrates Court over the recent charges?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "20 August 2025"
+        },
+        {
+          "text": "18 September 2025"
+        },
+        {
+          "text": "1 September 2025"
+        },
+        {
+          "text": "18 October 2025"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Queensland Police issued a summons on 20 August 2025, and multiple reputable news outlets report Brandon Smith is due to appear at Southport Magistrates Court on 18 September 2025 (the second option).",
+      "source": "https://www.abc.net.au/news/2025-08-25/nrl-brandon-smith-charged-with-drug-supply-betting-offences/105695450"
+    },
+    {
+      "question": "On what date is Snoop Dogg scheduled to headline the pre‑game entertainment at the AFL Grand Final at the MCG?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "September 20, 2025"
+        },
+        {
+          "text": "October 4, 2025"
+        },
+        {
+          "text": "September 27, 2025"
+        },
+        {
+          "text": "September 27, 2024"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "The AFL confirmed Snoop Dogg will headline the pre‑game entertainment at the Toyota AFL Grand Final at the MCG on September 27, 2025, as reported by ABC News.",
+      "source": "https://www.abc.net.au/news/2025-08-12/snoop-dogg-announced-as-afl-grand-final-pre-game-entertainment/105640650"
+    }
+  ],
+  "date": "2025-08-26",
+  "generatedAt": "2025-08-25T15:57:10.008Z"
+}
