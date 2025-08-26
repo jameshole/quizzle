@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "According to reports on President Trump's announcement about removing Fed Governor Lisa Cook, how long is the statutory term for a Federal Reserve governor?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "10 years"
+        },
+        {
+          "text": "12 years"
+        },
+        {
+          "text": "14 years"
+        },
+        {
+          "text": "6 years"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Federal Reserve governors are appointed to statutory 14-year terms. News coverage of the reported removal noted governors serve 14-year terms (Cook's term runs into 2038 unless removed).",
+      "source": "https://www.reuters.com/business/view-analysts-reaction-trump-firing-feds-cook-2025-08-26/"
+    },
+    {
+      "question": "On 26 August 2025, which organisation did the Australian government announce it would move to legislate to designate as a terrorist organisation?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "Muslim Brotherhood"
+        },
+        {
+          "text": "Iranian Ministry of Intelligence"
+        },
+        {
+          "text": "Islamic Revolutionary Guard Corps (IRGC)"
+        },
+        {
+          "text": "Iranian Ministry of Foreign Affairs"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "On 26 August 2025 the Australian government announced it would move to legislate to list Iran’s Islamic Revolutionary Guard Corps (IRGC) as a terrorist organisation. (See Reuters and the Australian government press release/transcript reporting the announcement.)",
+      "source": "https://www.reuters.com/world/asia-pacific/australia-expels-iranian-envoy-over-antisemitic-attacks-2025-08-26/"
+    },
+    {
+      "question": "How many Victoria Police officers were killed in the Porepunkah (Rayner Track) incident on 26 August 2025?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "One officer"
+        },
+        {
+          "text": "Two officers"
+        },
+        {
+          "text": "Three officers"
+        },
+        {
+          "text": "Four officers"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Contemporary reporting states two Victoria Police officers were fatally shot during a search-warrant operation at a rural property near Porepunkah on 26 August 2025; a third officer was seriously wounded but survived. Therefore, the number killed is two.",
+      "source": "https://www.reuters.com/world/asia-pacific/australian-police-hunt-gunman-who-shot-dead-two-officers-rural-town-2025-08-26/"
+    },
+    {
+      "question": "When is the 2025 AFL Grand Final — for which Snoop Dogg was announced as the pre‑game entertainer — scheduled to start?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "Saturday 27 September 2025, 7:00pm AEST"
+        },
+        {
+          "text": "Saturday 20 September 2025, 2:30pm AEST"
+        },
+        {
+          "text": "Saturday 27 September 2025, 2:30pm AEST"
+        },
+        {
+          "text": "Saturday 4 October 2025, 2:30pm AEST"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "The AFL confirmed the 2025 Toyota AFL Grand Final is scheduled for Saturday 27 September 2025 with the traditional 2:30pm AEST start (the match kick‑off/opening bounce). Snoop Dogg was announced as the Telstra pre‑game entertainer in media reports, but the official match start time is 2:30pm AEST on 27 Sept 2025.",
+      "source": "https://www.afl.com.au/news/1341785/2025-toyota-afl-grand-final-start-time-confirmed?utm_source=chatgpt.com"
+    },
+    {
+      "question": "Which director's film titled 'Frankenstein' was listed as a key entry at the 82nd Venice International Film Festival in 2025?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "Paolo Sorrentino"
+        },
+        {
+          "text": "Guillermo del Toro"
+        },
+        {
+          "text": "Kathryn Bigelow"
+        },
+        {
+          "text": "Yorgos Lanthimos"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Guillermo del Toro's film Frankenstein was named among the key entries in the Venezia 82 programme. The other listed directors had different films at Venice 2025 (Paolo Sorrentino — La grazia; Kathryn Bigelow — A House of Dynamite; Yorgos Lanthimos — Bugonia).",
+      "source": "https://www.reuters.com/world/europe/stars-geopolitics-share-spotlight-venice-film-festival-2025-08-26/"
+    }
+  ],
+  "date": "2025-08-27",
+  "generatedAt": "2025-08-26T15:56:12.837Z"
+}
