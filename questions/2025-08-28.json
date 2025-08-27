@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "According to the Israeli military's initial statement reported in the news, what did it say it was targeting in the 25 August 2025 strike on the Nasser (Al‑Nasser) Hospital complex in Khan Yunis?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "A Hamas surveillance camera"
+        },
+        {
+          "text": "A field hospital ward"
+        },
+        {
+          "text": "An underground weapons cache"
+        },
+        {
+          "text": "A senior Hamas commander"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Israeli military acknowledged carrying out the strike and said it believed it was targeting a Hamas surveillance camera in the area; it ordered a follow‑up inquiry into the incident. This was reported in initial investigations cited by Reuters and other outlets.",
+      "source": "https://www.reuters.com/world/middle-east/initial-inquiry-says-hamas-camera-was-target-israeli-strike-that-killed-2025-08-26/"
+    },
+    {
+      "question": "In the defamation judgment published on 27 August 2025, how many social‑media publications did the WA Supreme Court judge find to be defamatory (regardless of whether damages were awarded)?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "One"
+        },
+        {
+          "text": "Two"
+        },
+        {
+          "text": "Three"
+        },
+        {
+          "text": "Four"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Justice Paul Tottle’s judgment (published 27 August 2025) found that three social‑media publications were defamatory. Although damages were awarded for two of those publications, a third was found defamatory but was successfuly defended on grounds such as honest opinion/qualified privilege, so no damages were ordered for that one.",
+      "source": "https://www.abc.net.au/news/2025-08-27/linda-reynolds-brittany-higgins-david-sharaz-defamation-trial/104830130"
+    },
+    {
+      "question": "How many students were on board the Christian College Geelong school bus that rolled over in Stonehaven on 27 August 2025?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "26"
+        },
+        {
+          "text": "30"
+        },
+        {
+          "text": "28"
+        },
+        {
+          "text": "22"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Victoria Police and multiple reputable news outlets reported that 28 students were on board the Christian College Geelong bus when it rolled over at the Hamilton Highway / Friend-in-Hand Road intersection in Stonehaven on 27 August 2025.",
+      "source": "https://www.police.vic.gov.au/fatal-school-bus-crash-stonehaven?utm_source=chatgpt.com"
+    },
+    {
+      "question": "Who did world No. 1 Jannik Sinner defeat in the first round of his 2025 US Open title defence on 26 August 2025?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "Alexei Popyrin"
+        },
+        {
+          "text": "Vit Kopriva"
+        },
+        {
+          "text": "Emil Ruusuvuori"
+        },
+        {
+          "text": "Daniil Medvedev"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Jannik Sinner defeated Vit Kopriva of the Czech Republic in straight sets (6–1, 6–1, 6–2) in his first‑round match at the 2025 US Open on 26 August 2025, as reported by Reuters and the US Open official site.",
+      "source": "https://www.reuters.com/sports/tennis/sinner-kick-starts-us-open-title-defence-with-routine-first-round-win-2025-08-26/"
+    },
+    {
+      "question": "When is Kylie Minogue's live album Tension Tour//Live 2025 scheduled to be released digitally/for streaming?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "26 August 2025"
+        },
+        {
+          "text": "26 September 2024"
+        },
+        {
+          "text": "26 September 2025"
+        },
+        {
+          "text": "1 March 2026"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Kylie announced that the full live album Tension Tour//Live 2025 will be released digitally/for streaming on 26 September 2025; a vinyl edition is planned to follow in 2026.",
+      "source": "https://ca.style.yahoo.com/kylie-minogue-announces-tension-tour-130905152.html"
+    }
+  ],
+  "date": "2025-08-28",
+  "generatedAt": "2025-08-27T15:56:24.415Z"
+}
