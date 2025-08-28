@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "According to Ukraine’s Air Force, roughly how many strike and decoy drones did Russia launch nationwide during the overnight Aug. 27–28, 2025 attack?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "About 598 strike/decoy drones"
+        },
+        {
+          "text": "About 450 strike/decoy drones"
+        },
+        {
+          "text": "About 700 strike/decoy drones"
+        },
+        {
+          "text": "About 150 strike/decoy drones"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ukraine’s Air Force reported that Russia launched roughly 598 strike and decoy drones overnight on Aug. 27–28, 2025. (For context: the same reporting noted about 31 missiles were launched in the barrage and Ukrainian air defences reported intercepting around 563 of the drones and about 26 missiles.)",
+      "source": "https://www.reuters.com/world/russia-pounds-ukraine-with-missiles-drones-hits-eu-mission-2025-08-28/"
+    },
+    {
+      "question": "According to ABC Verify, which white‑nationalist concept was explicitly listed on the March for Australia event website?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "Great Replacement"
+        },
+        {
+          "text": "Eurabia"
+        },
+        {
+          "text": "Remigration"
+        },
+        {
+          "text": "Multiculturalism"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "ABC News Verify reported the March for Australia website originally included the line \"remigration now\" on its \"Why we're marching\" list (that reference was later removed). While ABC also documented organisers and affiliated accounts sharing material referencing the \"Great Replacement,\" that phrase did not appear on the event website itself.",
+      "source": "https://www.abc.net.au/news/2025-08-28/who-is-behind-march-for-australia-anti-immigration-rallies/105657548?utm_source=openai"
+    },
+    {
+      "question": "How many Victoria Police officers were killed in the Porepunkah shooting on 26 August 2025?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "One"
+        },
+        {
+          "text": "Two"
+        },
+        {
+          "text": "Three"
+        },
+        {
+          "text": "Four"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Multiple reputable news outlets and official Victoria Police statements report that two officers were killed: Detective Leading Senior Constable Neal Thompson (59) and Senior Constable Vadim De Waart (35). A third officer was seriously injured. The incident occurred while officers were executing a search warrant near Porepunkah on 26 August 2025.",
+      "source": "https://www.abc.net.au/news/2025-08-27/police-officers-shot-dead-porepunkah-identified/105703406"
+    },
+    {
+      "question": "What was the winning margin when the Gold Coast Suns beat Essendon to clinch their first-ever AFL finals berth?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "75 points"
+        },
+        {
+          "text": "95 points"
+        },
+        {
+          "text": "58 points"
+        },
+        {
+          "text": "100 points"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Suns defeated Essendon 23.15 (153) to 8.10 (58), a margin of 95 points, a dominant win that secured Gold Coast's first AFL finals appearance since joining the league in 2011.",
+      "source": "https://www.abc.net.au/news/2025-08-28/the-suns-long-road-to-afl-finals/105628408"
+    },
+    {
+      "question": "What caption did Taylor Swift and Travis Kelce use in their joint Instagram post announcing their engagement on August 26, 2025?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "We said yes and we're so happy"
+        },
+        {
+          "text": "Officially off the market"
+        },
+        {
+          "text": "Your English teacher and your gym teacher are getting married."
+        },
+        {
+          "text": "Ring check: she's blushing"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Their joint Instagram announcement (a carousel of photos posted Aug. 26, 2025) included the caption: “Your English teacher and your gym teacher are getting married.” Note: reports also mention the post included a dynamite (TNT) emoji alongside that text, but the written caption text matches option 3.",
+      "source": "https://www.nfl.com/news/chiefs-te-travis-kelce-taylor-swift-announce-engagement-on-social-media"
+    }
+  ],
+  "date": "2025-08-29",
+  "generatedAt": "2025-08-28T15:58:55.787Z"
+}
