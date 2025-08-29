@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "Which offices in Kyiv were reported damaged in the Aug. 28, 2025 Russian overnight drone-and-missile assault?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "The U.S. Embassy and the Canadian Consulate"
+        },
+        {
+          "text": "The Russian Embassy and the U.N. building"
+        },
+        {
+          "text": "The European Union delegation building and the British Council office"
+        },
+        {
+          "text": "The German Chancellor’s residence and the French Consulate"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Reporting from Reuters and other outlets said the strikes damaged buildings across Kyiv, including the European Union delegation building and the British Council office.",
+      "source": "https://www.reuters.com/world/russian-missiles-pound-ukraine-damage-eu-british-offices-2025-08-28/"
+    },
+    {
+      "question": "What did media reporting and officials say in late August 2025 had been uncovered regarding an aviation-related security incident in Australia?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "A planned cyberattack on the national air traffic control system"
+        },
+        {
+          "text": "A suspected foiled plot to hijack a commercial passenger aircraft and fly it to a Middle Eastern country (a suspect arrested)"
+        },
+        {
+          "text": "A fuel contamination incident that grounded multiple domestic flights"
+        },
+        {
+          "text": "An industrial strike by airport baggage handlers that halted international departures"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Contemporary reporting (notably The Australian, with confirmation that a suspect is in custody reported by officials) described an alleged/foiled plan to seize a commercial passenger aircraft in Australia and fly it to a Middle Eastern country. Official confirmations were limited — ministers and the AFP confirmed a suspect was in custody and that suppression orders apply — and many of the specific details come via media reporting rather than a full public disclosure by authorities.",
+      "source": "https://www.abc.net.au/news/2025-08-29/federal-politics-live-aug-29/105710790"
+    },
+    {
+      "question": "During the Antarctic blast warning for Victoria, how low did forecasts say snow levels could fall in parts of the state?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "100–200 metres"
+        },
+        {
+          "text": "600–700 metres"
+        },
+        {
+          "text": "1,000–1,200 metres"
+        },
+        {
+          "text": "At sea level, near the coast"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Contemporary forecasts and media coverage during the 28–29 Aug 2025 Antarctic blast reported snow levels in parts of Victoria could fall to roughly 600–700 metres (the ABC cited around 600 m). Blizzard conditions were expected at much higher alpine elevations (around or above ~1,200 m), and near-sea-level snow was forecast for parts of Tasmania, not Victoria.",
+      "source": "https://www.abc.net.au/news/2025-08-29/weather-winter-storm-snow-antarctic-blast-arrives/105708844"
+    },
+    {
+      "question": "On what date will Snoop Dogg headline the pre-game entertainment at the 2025 AFL Grand Final?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "20 September 2025"
+        },
+        {
+          "text": "27 September 2025"
+        },
+        {
+          "text": "4 October 2025"
+        },
+        {
+          "text": "13 September 2025"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "The AFL confirmed Snoop Dogg will headline the Telstra pre‑game entertainment at the 2025 AFL Grand Final at the MCG on Saturday 27 September 2025.",
+      "source": "https://www.abc.net.au/news/2025-08-12/snoop-dogg-announced-as-afl-grand-final-pre-game-entertainment/105640650"
+    },
+    {
+      "question": "At which film festival did George Clooney’s new film Jay Kelly have its world premiere on Aug. 28, 2025?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "82nd Venice International Film Festival (Venice)"
+        },
+        {
+          "text": "Cannes Film Festival"
+        },
+        {
+          "text": "Toronto International Film Festival"
+        },
+        {
+          "text": "Sundance Film Festival"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": "Jay Kelly had its world premiere on Aug. 28, 2025 at the 82nd Venice International Film Festival (screened in Sala Grande at Venice), where it received a sustained standing ovation.",
+      "source": "https://people.com/george-clooney-jay-kelly-earns-10-minute-ovation-venice-amid-illness-with-amal-11800266"
+    }
+  ],
+  "date": "2025-08-30",
+  "generatedAt": "2025-08-29T15:55:46.733Z"
+}
