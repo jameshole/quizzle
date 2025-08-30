@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "On which date is China scheduled to hold the large \"Victory Day\" military parade in Beijing marking the 80th anniversary of Japan's surrender?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "September 1, 2025"
+        },
+        {
+          "text": "September 3, 2025"
+        },
+        {
+          "text": "September 5, 2025"
+        },
+        {
+          "text": "September 2, 2025"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Multiple authoritative sources, including official Chinese government announcements and major news outlets, report that the large Victory Day military parade in Beijing is scheduled for September 3, 2025. The listed incorrect options are not reported as the parade date.",
+      "source": "https://www.aljazeera.com/news/2025/8/28/north-koreas-kim-putin-to-attend-parade-in-china-marking-end-of-wwii"
+    },
+    {
+      "question": "Which two elected figures — one federal MP and one NSW MP — publicly endorsed or said they would personally attend the nationwide 'March for Australia' rallies scheduled for 31 August 2025?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "Scott Morrison and Anthony Albanese"
+        },
+        {
+          "text": "Jacqui Lambie and Linda Burney"
+        },
+        {
+          "text": "Bob Katter and John Ruddick"
+        },
+        {
+          "text": "Peter Dutton and Anthony Albanese"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Contemporary reporting named federal MP Bob Katter and NSW MP John Ruddick as having publicly endorsed the March for Australia rallies, with Ruddick vowing to attend and Katter posting videos urging people to join. Other listed pairs did not both endorse or say they would attend. (Note: Pauline Hanson separately encouraged supporters to join, but she is not paired here.)",
+      "source": "https://www.abc.net.au/news/2025-08-28/who-is-behind-march-for-australia-anti-immigration-rallies/105657548"
+    },
+    {
+      "question": "On which date did the ambush-style shooting near Porepunkah that killed two Victoria Police officers occur?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "27 August 2025"
+        },
+        {
+          "text": "28 August 2025"
+        },
+        {
+          "text": "26 August 2025"
+        },
+        {
+          "text": "25 August 2025"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Contemporary reporting states the ambush-style shooting occurred on 26 August 2025 while police were executing a warrant at a rural property near Porepunkah; two officers were killed and a third injured.",
+      "source": "https://www.abc.net.au/news/2025-08-26/victoria-police-incident-porepunkah-injured-missing/105698228?utm_source=openai"
+    },
+    {
+      "question": "On what date did the Federal Court of Australia order WMG Football Club Limited (Western United) to be wound up?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "27 August 2025"
+        },
+        {
+          "text": "29 August 2025"
+        },
+        {
+          "text": "17 October 2025"
+        },
+        {
+          "text": "8 August 2025"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Multiple reputable news outlets report that the Federal Court (judicial registrar Robyn Curnow) issued the winding-up order for WMG Football Club Limited on 29 August 2025. The other dates refer to related but distinct events: 8 August 2025 was when Football Australia withdrew Western United’s A-League licence, 27 August 2025 corresponded to reporting around the collapse/withdrawal of a prospective takeover, and 17 October 2025 is the scheduled start of the A-League Men 2025–26 season — none are the Federal Court’s winding-up order date.",
+      "source": "https://www.abc.net.au/news/2025-08-29/football-western-united-enters-liquidation-federal-court/105713464"
+    },
+    {
+      "question": "To which dates were Coldplay's final two Wembley Stadium concerts rescheduled in September 2025?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "7 September and 8 September 2025"
+        },
+        {
+          "text": "8 September and 9 September 2025"
+        },
+        {
+          "text": "6 September and 12 September 2025"
+        },
+        {
+          "text": "5 September and 11 September 2025"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Wembley Stadium announced the final two concerts originally set for 7 and 8 September 2025 were moved to 6 September and 12 September 2025 because planned London Underground strikes would make it unsafe to transport the expected crowd.",
+      "source": "https://www.wembleystadium.com/news/2025/08/29/15/20/IMPORTANT-INFORMATION-REGARDING-UPCOMING-COLDPLAY-SHOWS-AT-WEMBLEY-STADIUM-SEPTEMBER-7th-and-8th"
+    }
+  ],
+  "date": "2025-08-31",
+  "generatedAt": "2025-08-30T15:53:57.629Z"
+}
