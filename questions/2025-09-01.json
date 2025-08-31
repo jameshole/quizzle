@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "Which Houthi official was confirmed killed in the Israeli airstrike on a meeting of senior Houthi officials in or near Sanaa in late August 2025?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "Mahdi al‑Mashat"
+        },
+        {
+          "text": "Ahmed (Ahmad) al‑Rahawi"
+        },
+        {
+          "text": "Muhammad Ahmad Miftah"
+        },
+        {
+          "text": "Benjamin Netanyahu"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Houthi authorities confirmed that Ahmed (Ahmad) al‑Rahawi, the prime minister of the Houthi‑run government, was killed in the Israeli airstrike; Muhammad Ahmad Miftah was named to carry out the prime minister’s duties, Mahdi al‑Mashat remained a Houthi leader, and Benjamin Netanyahu is Israel's prime minister.",
+      "source": "https://www.reuters.com/world/middle-east/prime-minister-yemens-houthi-run-government-killed-israeli-strike-2025-08-30/"
+    },
+    {
+      "question": "Under the memorandum of understanding signed with Nauru, what was the reported initial payment Australia agreed to pay once the first group arrives?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "About A$408 million"
+        },
+        {
+          "text": "About A$280 million"
+        },
+        {
+          "text": "About A$350 million"
+        },
+        {
+          "text": "About A$1 billion"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": "News reports state the deal includes an initial upfront payment of about A$408 million once the first group arrives. The figure of about A$70 million that appears in coverage refers to an ongoing annual/resettlement payment, not the initial payment.",
+      "source": "https://www.abc.net.au/news/2025-08-30/federal-government-inks-400m-deal-with-nauru/105716134?utm_source=openai"
+    },
+    {
+      "question": "According to ABC News (29–30 Aug 2025), roughly how many SES requests for assistance did Victoria receive in the 24 hours after the late‑winter cold front on 29–30 August 2025?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "About 400"
+        },
+        {
+          "text": "About 1,400"
+        },
+        {
+          "text": "About 10,000"
+        },
+        {
+          "text": "About 50"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "ABC News reported the Victorian State Emergency Service received about 1,400 requests for assistance in the past 24 hours after the storm (around 800 of those were for fallen trees).",
+      "source": "https://www.abc.net.au/news/2025-08-30/saturday-severe-weather/105714458"
+    },
+    {
+      "question": "What time (AEST) will the opening bounce of the 2025 Toyota AFL Grand Final take place?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "6:30pm AEST"
+        },
+        {
+          "text": "2:30pm AEST"
+        },
+        {
+          "text": "7:30pm AEST"
+        },
+        {
+          "text": "12:30pm AEST"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "The AFL Commission confirmed the 2025 Toyota AFL Grand Final will be played on Saturday 27 September 2025 with the opening bounce at 2:30pm AEST, retaining the traditional daytime slot. (Note: 12:30pm is the WA local time (AWST) equivalent, not AEST.)",
+      "source": "https://www.afl.com.au/news/1341785/2025-toyota-afl-grand-final-start-time-confirmed"
+    },
+    {
+      "question": "At his Westminster Magistrates’ Court appearance on 30 August 2025, which of the following was a bail condition imposed on Charles Nall‑Cain, 3rd Baron Brocket?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "He was remanded in custody"
+        },
+        {
+          "text": "He was granted bail with a GPS‑tag‑monitored exclusion from the M25"
+        },
+        {
+          "text": "He was required to surrender his peerage title"
+        },
+        {
+          "text": "He was immediately deported from the UK"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Contemporary reports state that at his 30 August appearance Brocket was granted bail with conditions that included a GPS‑tag‑monitored exclusion from coming within the M25. He was not remanded in custody, was not required to surrender his title, and was not deported.",
+      "source": "https://www.theguardian.com/uk-news/2025/aug/30/im-a-celebrity-peer-appears-in-court-on-charges"
+    }
+  ],
+  "date": "2025-09-01",
+  "generatedAt": "2025-08-31T15:55:25.289Z"
+}
