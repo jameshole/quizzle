@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "At the 2025 Shanghai Cooperation Organisation summit in Tianjin, which major proposal did Chinese leader Xi Jinping publicly launch or promote?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "A plan for SCO members to join NATO-style military alliance"
+        },
+        {
+          "text": "A proposal to create an SCO development bank and a broader “Global Governance Initiative”"
+        },
+        {
+          "text": "A pledge to withdraw China from the United Nations"
+        },
+        {
+          "text": "A proposal to discontinue China’s BeiDou satellite services for SCO partners"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "At the Sept. 1, 2025 SCO summit in Tianjin, Xi Jinping promoted a “Global Governance Initiative” and called for creation of an SCO development bank (with follow-up pledges of Chinese support). He did not propose forming a NATO‑style alliance, did not pledge to withdraw China from the UN, and did not propose ending BeiDou access for SCO partners (reports say he encouraged BeiDou cooperation). Note: reporting indicates the GGI was proposed/promoted rather than finalized with full implementation details.",
+      "source": "https://www.reuters.com/world/china/chinas-xi-unveils-vision-new-global-order-security-forum-2025-09-01/"
+    },
+    {
+      "question": "During the 'March for Australia' anti‑immigration rallies on 31 August 2025, in which city did police estimate about 15,000 people attended the combined rally and counter‑rally?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "Sydney"
+        },
+        {
+          "text": "Adelaide"
+        },
+        {
+          "text": "Melbourne"
+        },
+        {
+          "text": "Perth"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "ABC News reported that police estimated about 15,000 people attended the combined rally and counter‑rally in Adelaide on 31 August 2025 (while Sydney's event was reported at roughly 5,000–8,000).",
+      "source": "https://www.abc.net.au/news/2025-08-31/clashes-at-march-for-australia-anti-immigration-rallies/105717532?utm_source=openai"
+    },
+    {
+      "question": "Where in Melbourne did men linked to the neo‑Nazi National Socialist Network storm Camp Sovereignty and attack a First Nations gathering on 31 August 2025?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "Federation Square"
+        },
+        {
+          "text": "Kings Domain (Camp Sovereignty)"
+        },
+        {
+          "text": "Carlton Gardens"
+        },
+        {
+          "text": "Birrarung Marr"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Reports state the attack took place at Camp Sovereignty, a First Nations gathering and sacred burial site located in Kings Domain, central Melbourne, on 31 August 2025.",
+      "source": "https://www.abc.net.au/news/2025-09-01/camp-sovereignty-clash-melbourne-rally/105719018"
+    },
+    {
+      "question": "Which city did India nominate as its preferred host in its formal bid for the 2030 Commonwealth Games?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "Mumbai"
+        },
+        {
+          "text": "New Delhi"
+        },
+        {
+          "text": "Ahmedabad"
+        },
+        {
+          "text": "Lagos"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "India’s formal bid for the 2030 Commonwealth Games nominated Ahmedabad as the preferred host city, according to the Indian Olympic Association’s submission reported by Reuters.",
+      "source": "https://www.reuters.com/sports/india-submits-bid-host-2030-commonwealth-games-2025-08-30/"
+    },
+    {
+      "question": "Which film was listed for a theatrical release on September 5, 2025 in the recent fall previews?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "Black Rabbit"
+        },
+        {
+          "text": "Only Murders in the Building (Season 5)"
+        },
+        {
+          "text": "Slow Horses"
+        },
+        {
+          "text": "The Conjuring: Last Rites"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": "The fall preview coverage notes that The Conjuring: Last Rites is scheduled for a U.S. theatrical release on September 5, 2025. The other options are streaming series or TV seasons (Black Rabbit, Only Murders in the Building S5, Slow Horses S5) and are not listed as theatrical releases on that date.",
+      "source": "https://people.com/2025-fall-movie-preview-11798032?utm_source=openai"
+    }
+  ],
+  "date": "2025-09-02",
+  "generatedAt": "2025-09-01T20:34:09.419Z"
+}
