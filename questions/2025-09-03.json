@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "Which major city was nearest to the epicentre of the magnitude‑6.0 earthquake that struck eastern Afghanistan on 31 August 2025?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "Kabul"
+        },
+        {
+          "text": "Kandahar"
+        },
+        {
+          "text": "Jalalabad"
+        },
+        {
+          "text": "Herat"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Reports state the quake's epicentre was near Jalalabad on the Nangarhar–Kunar provincial border; Jalalabad is the nearest major city to that area. (Magnitude and location reported in news coverage and USGS-derived reports.)",
+      "source": "https://www.reuters.com/business/environment/afghan-earthquake-death-toll-crosses-1400-authorities-say-2025-09-02/"
+    },
+    {
+      "question": "Camp Sovereignty — the First Nations protest camp that was stormed after the Aug. 31 \"March for Australia\" rallies — is located in which Melbourne park?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "Royal Botanic Gardens"
+        },
+        {
+          "text": "King's Domain"
+        },
+        {
+          "text": "Albert Park"
+        },
+        {
+          "text": "Fitzroy Gardens"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Reporting identifies Camp Sovereignty as the Indigenous protest encampment at King’s Domain (sometimes styled “Kings Domain”) in Melbourne, which was stormed after the Aug. 31, 2025 \"March for Australia\" rallies.",
+      "source": "https://www.abc.net.au/news/2025-09-02/iat-camp-sovereignty-follow/105722830"
+    },
+    {
+      "question": "On the night of Monday 1 September 2025, where did emergency services respond to a collision between a car and a truck that was linked to a suspected shooting?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "Monash Freeway and Princes Highway, Dandenong"
+        },
+        {
+          "text": "Princes Freeway at Werribee"
+        },
+        {
+          "text": "Hume Freeway exit/entry ramp and Cooper Street, Epping"
+        },
+        {
+          "text": "Eastern Freeway at Doncaster"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Victoria Police and media reports state the incident occurred at the Hume Freeway exit/entry ramp and Cooper Street in Epping (northern Melbourne) at about 9:30pm on Monday 1 September 2025.",
+      "source": "https://www.police.vic.gov.au/police-investigate-shooting-and-collision-melbournes-north?utm_source=openai"
+    },
+    {
+      "question": "How many wickets did Mitchell Starc finish with in his T20 International career, according to his Sept. 2, 2025 retirement announcement?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "65 wickets"
+        },
+        {
+          "text": "72 wickets"
+        },
+        {
+          "text": "79 wickets"
+        },
+        {
+          "text": "84 wickets"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mitchell Starc announced his retirement from T20 internationals on Sept. 2, 2025, finishing his T20I career with 79 wickets in 65 matches, as reported in contemporary coverage.",
+      "source": "https://www.reuters.com/sports/cricket/australia-pace-great-starc-retires-t20-internationals-2025-09-02/"
+    },
+    {
+      "question": "For which film did Canadian actor Graham Greene receive an Academy Award nomination?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "The Green Mile"
+        },
+        {
+          "text": "Thunderheart"
+        },
+        {
+          "text": "Dances with Wolves"
+        },
+        {
+          "text": "Maverick"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Graham Greene was nominated for the Academy Award for Best Supporting Actor for his role as Kicking Bird in Dances with Wolves (1990).",
+      "source": "https://www.oscars.org/oscars/ceremonies/1991"
+    }
+  ],
+  "date": "2025-09-03",
+  "generatedAt": "2025-09-02T15:57:02.040Z"
+}
