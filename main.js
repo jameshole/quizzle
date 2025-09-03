@@ -205,7 +205,23 @@ function loadQuestion(index) {
         });
         
         // Show feedback
-        document.getElementById("result-explanation").textContent = question.explanation;
+        const explanationElement = document.getElementById("result-explanation");
+        explanationElement.textContent = question.explanation;
+        
+        // Add "Read more" link if source is available
+        if (question.source) {
+            const lineBreak = document.createElement('br');
+            explanationElement.appendChild(lineBreak);
+            
+            const readMoreLink = document.createElement('a');
+            readMoreLink.href = question.source;
+            readMoreLink.target = '_blank';
+            readMoreLink.rel = 'noopener';
+            readMoreLink.textContent = 'Read more';
+            readMoreLink.style.textDecoration = 'underline';
+            explanationElement.appendChild(readMoreLink);
+        }
+        
         document.getElementById('feedback').classList.remove('hidden');
     } else {
         // set the answers for unanswered question
@@ -260,7 +276,23 @@ function checkAnswer(answerIndex) {
     }
 
     // Show explanation and continue button
-    document.getElementById("result-explanation").textContent = currentQuestion.explanation;
+    const explanationElement = document.getElementById("result-explanation");
+    explanationElement.textContent = currentQuestion.explanation;
+    
+    // Add "Read more" link if source is available
+    if (currentQuestion.source) {
+        const lineBreak = document.createElement('br');
+        explanationElement.appendChild(lineBreak);
+        
+        const readMoreLink = document.createElement('a');
+        readMoreLink.href = currentQuestion.source;
+        readMoreLink.target = '_blank';
+        readMoreLink.rel = 'noopener';
+        readMoreLink.textContent = 'Read more';
+        readMoreLink.style.textDecoration = 'underline';
+        explanationElement.appendChild(readMoreLink);
+    }
+    
     document.getElementById('feedback').classList.remove('hidden');
 }
 
