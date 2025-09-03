@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "How many guns were fired in the ceremonial salute during China's military parade in Beijing on Sept. 3, 2025?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "21-gun salute"
+        },
+        {
+          "text": "80-gun salute"
+        },
+        {
+          "text": "100-gun salute"
+        },
+        {
+          "text": "50-gun salute"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Multiple reports covering the Sept. 3, 2025 Beijing ceremony state it began with an 80-gun artillery salute to mark the 80th anniversary of Japan's WWII defeat.",
+      "source": "https://apnews.com/article/ed1f7b3e245882dd91b597df24eafbea"
+    },
+    {
+      "question": "According to the ABS release on Sept. 3, 2025, what was Australia's GDP growth over the year to June 2025 (year‑on‑year)?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "0.9%"
+        },
+        {
+          "text": "1.8%"
+        },
+        {
+          "text": "2.5%"
+        },
+        {
+          "text": "3.6%"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Australian Bureau of Statistics reported annual (year‑on‑year) GDP growth of 1.8% for the year to June 2025. The previously listed 0.6% figure referred to the quarter‑on‑quarter (June quarter) change and was removed to avoid confusion; the other options are not the reported year‑on‑year figure.",
+      "source": "https://www.reuters.com/world/asia-pacific/australia-economy-grows-06-q2-tops-forecasts-2025-09-03/"
+    },
+    {
+      "question": "On what date were two Victoria Police officers shot dead while executing a search warrant at a Porepunkah property?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "24 August 2025"
+        },
+        {
+          "text": "27 August 2025"
+        },
+        {
+          "text": "26 August 2025"
+        },
+        {
+          "text": "29 August 2025"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "The shooting occurred on 26 August 2025 when officers were executing a search warrant at a rural property in Porepunkah; some follow-up reporting and victim identification were published on 27 August, which may cause confusion, but the incident date is 26 August 2025.",
+      "source": "https://www.abc.net.au/news/2025-08-27/police-officers-shot-dead-porepunkah-identified/105703406"
+    },
+    {
+      "question": "On what date (UK local time / BST) is the Wallaroos' Pool A match against hosts England scheduled to be played at Brighton Community Stadium in the 2025 Women's Rugby World Cup?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "Friday 5 September 2025"
+        },
+        {
+          "text": "Saturday 6 September 2025"
+        },
+        {
+          "text": "Sunday 7 September 2025"
+        },
+        {
+          "text": "Saturday 13 September 2025"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "The official match fixture lists England v Australia (Pool A) at Brighton Community Stadium on Saturday, 6 September 2025 — UK local date (kick‑off 17:00 BST). Note that this kick‑off converts to early Sunday 7 September in Australian timezones, which is why the question now specifies UK local time.",
+      "source": "https://www.rugbyworldcup.com/2025/en/match/england-v-australia-pool-a"
+    },
+    {
+      "question": "After a late-night traffic stop in Moultonborough, New Hampshire, on what date is Succession actor Nicholas Braun scheduled to be arraigned?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "September 2, 2025"
+        },
+        {
+          "text": "September 10, 2025"
+        },
+        {
+          "text": "September 16, 2025"
+        },
+        {
+          "text": "September 30, 2025"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Multiple reputable news outlets and court-record reporting state Nicholas Braun is scheduled to be arraigned on September 16, 2025.",
+      "source": "https://www.nbcwashington.com/news/national-international/succession-nicholas-braun-arrested-dui-new-hampshire/3982997/"
+    }
+  ],
+  "date": "2025-09-04",
+  "generatedAt": "2025-09-03T15:57:24.455Z"
+}
