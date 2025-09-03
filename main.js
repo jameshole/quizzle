@@ -11,6 +11,9 @@ let currentQuestionIndex = 0;
 let totalCorrect = 0;
 let resultString = "";
 let quizDate = null;
+let userAnswers = [];
+let touchStartX = 0;
+let touchEndX = 0;
 
 // on document ready
 document.addEventListener("DOMContentLoaded", async function() {
@@ -24,6 +27,9 @@ document.addEventListener("DOMContentLoaded", async function() {
     document.getElementById("start-button").addEventListener("click", startQuiz);
     document.querySelector(".next").addEventListener("click", nextQuestion);
     document.getElementById("share-button").addEventListener("click", shareText);
+    
+    // Add swipe event listeners
+    setupSwipeListeners();
 });
 
 function setupTheme() {
@@ -154,6 +160,9 @@ function startQuiz() {
 }
 
 function loadQuestion(index) {
+    // Update progress indicator
+    updateProgressIndicator(index);
+    
     // get the question element
     const questionElement = document.querySelector(".question");
     // get the question
@@ -165,23 +174,61 @@ function loadQuestion(index) {
     categoryElement.classList.add(question.category.toLowerCase());
     // set the question text
     questionElement.querySelector("#question-text").textContent = question.question;
-    // set the answers
-    question.answers.forEach((answer, index) => {
-        const answerElement = questionElement.querySelector(`#answer-${index + 1}`);
-        answerElement.textContent = answer.text;
-        answerElement.onclick = () => checkAnswer(index);
-        // Reset any previous styling
-        answerElement.classList.remove('correct', 'incorrect');
-        answerElement.disabled = false;
-    });
-    // Hide feedback initially
-    document.getElementById('feedback').classList.add('hidden');
+    
+    // Check if this question was already answered
+    const wasAnswered = userAnswers[index] !== undefined;
+    
+    if (wasAnswered) {
+        // Restore the answered state
+        const userAnswer = userAnswers[index];
+        const isCorrect = userAnswer === question.correctAnswer;
+        
+        // Update category header
+        categoryElement.textContent = isCorrect ? '✅ Correct' : '❌ Incorrect';
+        categoryElement.classList.remove(...categoryElement.classList);
+        categoryElement.classList.add(isCorrect ? 'result-correct' : 'result-incorrect');
+        
+        // Set answers and highlight correct/incorrect
+        question.answers.forEach((answer, idx) => {
+            const answerElement = questionElement.querySelector(`#answer-${idx + 1}`);
+            answerElement.textContent = answer.text;
+            answerElement.disabled = true;
+            answerElement.classList.remove('correct', 'incorrect');
+            
+            if (idx === question.correctAnswer) {
+                answerElement.classList.add('correct');
+            } else if (idx === userAnswer && !isCorrect) {
+                answerElement.classList.add('incorrect');
+            }
+            
+            answerElement.onclick = null;
+        });
+        
+        // Show feedback
+        document.getElementById("result-explanation").textContent = question.explanation;
+        document.getElementById('feedback').classList.remove('hidden');
+    } else {
+        // set the answers for unanswered question
+        question.answers.forEach((answer, idx) => {
+            const answerElement = questionElement.querySelector(`#answer-${idx + 1}`);
+            answerElement.textContent = answer.text;
+            answerElement.onclick = () => checkAnswer(idx);
+            // Reset any previous styling
+            answerElement.classList.remove('correct', 'incorrect');
+            answerElement.disabled = false;
+        });
+        // Hide feedback initially
+        document.getElementById('feedback').classList.add('hidden');
+    }
 }
 
 function checkAnswer(answerIndex) {
     const currentQuestion = questions[currentQuestionIndex];
     const isCorrect = answerIndex === currentQuestion.correctAnswer;
 
+    // Store the user's answer
+    userAnswers[currentQuestionIndex] = answerIndex;
+    
     if (isCorrect) {
         totalCorrect++;
         resultString += '✅'
@@ -263,6 +310,97 @@ function displayFinal() {
     document.querySelector(".final .comment").textContent = comment;
 }
 
+function updateProgressIndicator(index) {
+    // Update dots
+    const dots = document.querySelectorAll('.progress-dots .dot');
+    dots.forEach((dot, i) => {
+        dot.classList.remove('active', 'correct', 'incorrect', 'clickable');
+        
+        // Check if this question has been answered
+        if (resultString[i] === '✅') {
+            dot.classList.add('correct');
+        } else if (resultString[i] === '❌') {
+            dot.classList.add('incorrect');
+        }
+        
+        // Add active state to current question
+        if (i === index) {
+            dot.classList.add('active');
+        }
+        
+        // Make dots clickable if they're answered or before current progress
+        if (i < resultString.length) {
+            dot.classList.add('clickable');
+            dot.onclick = () => navigateToQuestion(i);
+        } else {
+            dot.onclick = null;
+        }
+    });
+}
+
+function navigateToQuestion(questionIndex) {
+    // Only allow navigation to questions that have been reached
+    if (questionIndex < resultString.length) {
+        currentQuestionIndex = questionIndex;
+        updateDisplay();
+    }
+}
+
+function setupSwipeListeners() {
+    const questionElement = document.querySelector('.question');
+    
+    questionElement.addEventListener('touchstart', function(e) {
+        touchStartX = e.changedTouches[0].screenX;
+    }, { passive: true });
+    
+    questionElement.addEventListener('touchend', function(e) {
+        touchEndX = e.changedTouches[0].screenX;
+        handleSwipe();
+    }, { passive: true });
+}
+
+function handleSwipe() {
+    const swipeThreshold = 50; // Minimum distance for swipe
+    const diff = touchStartX - touchEndX;
+    
+    if (Math.abs(diff) < swipeThreshold) return;
+    
+    if (diff > 0) {
+        // Swipe left - go to next question
+        navigateForward();
+    } else {
+        // Swipe right - go to previous question
+        navigateBackward();
+    }
+}
+
+function navigateForward() {
+    // Can only go forward if current question is answered
+    if (userAnswers[currentQuestionIndex] !== undefined) {
+        // Check if we're not at the last question
+        if (currentQuestionIndex < questions.length - 1) {
+            currentQuestionIndex++;
+            updateDisplay();
+        } else if (currentQuestionIndex === questions.length - 1) {
+            // Go to final screen
+            currentQuestionIndex++;
+            updateDisplay();
+        }
+    }
+}
+
+function navigateBackward() {
+    if (currentQuestionIndex > 0) {
+        // Don't go back from final screen to questions if quiz is complete
+        if (currentQuestionIndex === questions.length && resultString.length === questions.length) {
+            currentQuestionIndex--;
+        } else if (currentQuestionIndex <= questions.length) {
+            currentQuestionIndex--;
+        }
+        updateDisplay();
+    }
+}
+
 function getShareable() {
     return `Quizzle ${getFormattedDate()}
 ${totalCorrect}/${questions.length}
@@ -287,13 +425,28 @@ function getSaveKey() {
 }
 
 function saveProgress() {
-    localStorage.setItem(getSaveKey(), resultString);
+    const saveData = {
+        resultString: resultString,
+        userAnswers: userAnswers
+    };
+    localStorage.setItem(getSaveKey(), JSON.stringify(saveData));
 }
 
 function loadProgress() {
     let saveState = localStorage.getItem(getSaveKey());
     if (!saveState) return;
-    resultString = saveState;
+    
+    try {
+        // Try to parse as JSON (new format)
+        const data = JSON.parse(saveState);
+        resultString = data.resultString;
+        userAnswers = data.userAnswers || [];
+    } catch {
+        // Fall back to old format (plain string)
+        resultString = saveState;
+        userAnswers = [];
+    }
+    
     currentQuestionIndex = resultString.length;
     totalCorrect = (resultString.match(new RegExp("✅", "g")) || []).length;
 
