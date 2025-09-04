@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "At China's largest-ever military parade in Beijing (the Sept. 3, 2025 Victory Day event), which Australian figure — attending in a private capacity — was photographed on the rostrum with Xi Jinping, Vladimir Putin and Kim Jong Un, sparking criticism back home?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "Prime Minister Anthony Albanese"
+        },
+        {
+          "text": "Daniel Andrews"
+        },
+        {
+          "text": "Australia's ambassador to China"
+        },
+        {
+          "text": "Former prime minister Scott Morrison"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Daniel Andrews, the former premier of Victoria, attended the Beijing Victory Day parade in a private capacity and was photographed among the leaders; his presence drew domestic criticism. Prime Minister Anthony Albanese did not attend, Australia’s ambassador was not seated on the leaders’ rostrum, and there is no credible reporting that Scott Morrison was photographed there.",
+      "source": "https://www.abc.net.au/news/2025-09-03/china-hosts-lavish-military-parade/105728210"
+    },
+    {
+      "question": "In the recent robodebt class-action appeal settlement announced by the federal government, what is the agreed compensation sum to be paid to eligible class members (excluding applicants’ legal costs and administration costs), subject to Federal Court approval?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "A$300 million"
+        },
+        {
+          "text": "A$475 million"
+        },
+        {
+          "text": "A$548.5 million"
+        },
+        {
+          "text": "A$1 billion"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "The government and class action representatives agreed to A$475 million in compensation for eligible class members, subject to Federal Court approval. The A$548.5 million figure cited in some reports is the total package (A$475m compensation + up to A$13.5m applicants' legal costs + up to A$60m administration costs), not the compensation paid to class members.",
+      "source": "https://www.abc.net.au/news/2025-09-04/robodebt-victims-get-compensation-from-class-action/105734030"
+    },
+    {
+      "question": "Following the violent attack on the Camp Sovereignty First Nations encampment in Kings Domain, Melbourne, which extremist leader was arrested and charged by police?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "Blair Cottrell"
+        },
+        {
+          "text": "Thomas Sewell"
+        },
+        {
+          "text": "Jaeden Johnson"
+        },
+        {
+          "text": "Neil Erikson"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Thomas Sewell, the leader of the National Socialist Network, was arrested and charged over the Kings Domain attack and remanded in custody; reports say he faces multiple charges including violent disorder, affray, assault and discharging a missile. Other men were also charged, but Sewell was the extremist leader specifically reported as arrested and remanded.",
+      "source": "https://www.abc.net.au/news/2025-09-04/vic-camp-sovereignty-charges/105732982"
+    },
+    {
+      "question": "In the Wallabies' 23-man squad named for the Rugby Championship Test against Argentina in Townsville, who was selected at fullback to replace the injured Tom Wright?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "Tom Wright"
+        },
+        {
+          "text": "Andrew Kellaway"
+        },
+        {
+          "text": "James O'Connor"
+        },
+        {
+          "text": "Tom Lynagh"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Andrew Kellaway was named at fullback (No.15) in the Wallabies side for the Townsville Test after Tom Wright was ruled out with a season‑ending knee injury, according to the team announcement on 4 September 2025.",
+      "source": "https://www.abc.net.au/news/2025-09-04/australia-and-argentina-teams-rugby-championship-round-three/105735454"
+    },
+    {
+      "question": "Who, as AFL CEO, publicly defended the decision to book Snoop Dogg as the pre‑game entertainer for the AFL Grand Final at the MCG?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "Gillon McLachlan"
+        },
+        {
+          "text": "Andrew Dillon"
+        },
+        {
+          "text": "Andrew Demetriou"
+        },
+        {
+          "text": "Richard Goyder"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Andrew Dillon, the AFL chief executive, publicly defended the decision to book Snoop Dogg and said the pre‑match show would be family‑friendly, as reported by ABC and the AFL's official site.",
+      "source": "https://www.abc.net.au/news/2025-09-01/afl-boss-unmoved-by-snoop-dogg-grand-final-blow-back/105720616"
+    }
+  ],
+  "date": "2025-09-05",
+  "generatedAt": "2025-09-04T16:00:23.686Z"
+}
