@@ -56,6 +56,24 @@ body.dark .final h2 {
     padding: 0;
     background-color: transparent;
     color: black;
+    cursor: pointer;
+}
+
+.theme-icon {
+    width: 30px;
+    height: 30px;
+}
+
+body:not(.dark) .dark-icon {
+    display: none;
+}
+
+body.dark .light-icon {
+    display: none;
+}
+
+body.dark .theme-icon {
+    filter: invert(1);
 }
 
 .splash-screen, .question, .final {
