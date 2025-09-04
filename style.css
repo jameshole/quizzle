@@ -231,6 +231,32 @@ button.answer:disabled {
     line-height: 1.6;
 }
 
+#result-explanation a {
+    color: #1976d2;
+    text-decoration: underline;
+}
+
+#result-explanation a:visited {
+    color: #5e35b1;
+}
+
+#result-explanation a:hover {
+    color: #1565c0;
+}
+
+/* Dark mode link styles */
+body.dark #result-explanation a {
+    color: #64b5f6;
+}
+
+body.dark #result-explanation a:visited {
+    color: #ba68c8;
+}
+
+body.dark #result-explanation a:hover {
+    color: #90caf9;
+}
+
 .progress-indicator {
     padding: 0.5rem 0;
     text-align: center;
