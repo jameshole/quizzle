@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "Following Giorgio Armani's recent death, where did the Armani Group say a public chamber/wake would be set up?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "St Mark's Square in Venice"
+        },
+        {
+          "text": "Teatro Armani at the company's Milan headquarters"
+        },
+        {
+          "text": "Palazzo Pitti in Florence"
+        },
+        {
+          "text": "Sydney Opera House"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Armani Group announced a public funeral chamber/wake would be held at its Milan headquarters — Teatro Armani — with a private funeral to follow, according to Australian coverage of Giorgio Armani's death.",
+      "source": "https://www.abc.net.au/news/2025-09-04/giorgio-armani-dies-aged-91/105621180"
+    },
+    {
+      "question": "Following Melbourne University Publishing's announcement that Meanjin will cease publication, which staff did reports say were made redundant?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "MUP chair Professor Warren Bebbington and a senior manager"
+        },
+        {
+          "text": "Two full-time production staff at Melbourne University Publishing"
+        },
+        {
+          "text": "Editor Esther Anatolitis and deputy editor Eli McLean"
+        },
+        {
+          "text": "The magazine's long-standing fiction editor and poetry editor"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Australian reporting states that two part-time Meanjin staff were made redundant: editor Esther Anatolitis and deputy editor Eli McLean. (Some outlets — for example the Guardian story originally cited — mention two part-time staff and name Anatolitis but do not name McLean; Australian coverage such as Crikey and industry statements name both individuals.)",
+      "source": "https://www.crikey.com.au/2025/09/04/meanjin-closing-mup-melbourne-university-publishing-literary-journal/"
+    },
+    {
+      "question": "In ABC's report on the recent Marinus Link financing milestone, how much concessional loan (A$) did the Clean Energy Finance Corporation (CEFC) agree to provide to lock the project in?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "A$1.2 billion"
+        },
+        {
+          "text": "A$2.0 billion"
+        },
+        {
+          "text": "A$3.8 billion"
+        },
+        {
+          "text": "A$4.5 billion"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "The ABC article (3 Sept 2025) and the CEFC media release report the CEFC agreed to provide A$3.8 billion in concessional finance (the CEFC describes this as an expected commitment and notes it is inclusive of capitalised interest during construction).",
+      "source": "https://www.abc.net.au/news/2025-09-03/secured-financing-locks-marinus-link-in/105726416"
+    },
+    {
+      "question": "At the US Open, world No. 1 and defending champion Aryna Sabalenka beat Jessica Pegula in the women's semifinal to reach the final. How many winners did Sabalenka finish with in that match (match total)?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "43 winners"
+        },
+        {
+          "text": "27 winners"
+        },
+        {
+          "text": "36 winners"
+        },
+        {
+          "text": "19 winners"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": "Official match statistics list Sabalenka with 43 winners (and 8 aces) in the 4–6, 6–3, 6–4 semifinal win over Jessica Pegula.",
+      "source": "https://www.usopen.org/amp/en_US/news/articles/2025-09-04/sabalenka_tops_pegula_to_reach_2025_us_open_womens_final.html?utm_source=openai"
+    },
+    {
+      "question": "Following the Armani Group's announcement of his death, how old was Italian fashion designer Giorgio Armani?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "85"
+        },
+        {
+          "text": "88"
+        },
+        {
+          "text": "91"
+        },
+        {
+          "text": "93"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Armani Group announced Giorgio Armani's passing and Australian coverage (ABC News and others) reported he died aged 91.",
+      "source": "https://www.abc.net.au/news/2025-09-04/giorgio-armani-dies-aged-91/105621180"
+    }
+  ],
+  "date": "2025-09-06",
+  "generatedAt": "2025-09-05T15:58:19.408Z"
+}
