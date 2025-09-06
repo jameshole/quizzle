@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "Following the fatal shark attack while surfing at Long Reef Beach near Dee Why, which organisation suspended water activities for the weekend?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "NSW Police"
+        },
+        {
+          "text": "NSW Ambulance"
+        },
+        {
+          "text": "Surf Life Saving NSW"
+        },
+        {
+          "text": "NSW Department of Primary Industries"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Surf Life Saving NSW announced that clubs in the area cancelled all water activity and training for the weekend after the suspected shark attack at Long Reef Beach; the other agencies responded or assisted but were not reported to have suspended club water activities.",
+      "source": "https://www.theguardian.com/australia-news/2025/sep/06/fatal-shark-attack-long-reef-beach-sydney-northern-beaches-nsw"
+    },
+    {
+      "question": "Following the Porepunkah shooting and the large manhunt for Dezi Freeman, what did Victoria Police announce within the last 48 hours?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "They reduced the search to fewer than 50 officers and stood down most resources"
+        },
+        {
+          "text": "They offered up to A$1,000,000 for information leading to Freeman’s arrest"
+        },
+        {
+          "text": "They announced Freeman had been captured and charged"
+        },
+        {
+          "text": "They lifted the no‑fly/drone exclusion zone around Porepunkah"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Victoria Police announced a reward of up to A$1 million for information leading to Dezi Freeman’s arrest — the largest reward the state has offered for an arrest — while continuing a large-scale manhunt and warning the public not to search for him.",
+      "source": "https://www.abc.net.au/news/2025-09-06/police-offer-1m-reward-for-dezi-freeman-arrest/105742966"
+    },
+    {
+      "question": "In the recent manhunt for Dezi Freeman following the Porepunkah shootings, roughly how many officers did Victoria Police deploy to search the alpine bushland in north‑east Victoria?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "About 100 officers"
+        },
+        {
+          "text": "Around 250 officers"
+        },
+        {
+          "text": "More than 450 officers"
+        },
+        {
+          "text": "About 800 officers"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Victoria Police said the search for Dezi Freeman involved a large operation with more than 450 officers and specialised assets deployed to the rough alpine terrain around Porepunkah and the Victorian High Country.",
+      "source": "https://www.abc.net.au/news/2025-09-06/police-offer-1m-reward-for-dezi-freeman-arrest/105742966"
+    },
+    {
+      "question": "In the Rugby Championship match in Townsville where the Wallabies came from 21–7 down to beat Argentina 28–24, which player scored the winning try deep into added time?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "Joseph‑Aukuso Sua’ali’i"
+        },
+        {
+          "text": "Angus Bell"
+        },
+        {
+          "text": "Harry Wilson"
+        },
+        {
+          "text": "Mateo Carreras"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Angus Bell, the Wallabies prop, scored the decisive try in the sixth minute of added time (80+6) to complete the comeback and secure a 28–24 victory over Argentina in Townsville.",
+      "source": "https://www.espn.com.au/rugby/match/_/gameId/603122/league/244293"
+    },
+    {
+      "question": "Which of the following aircraft was part of the Australian Defence Force aerial display at Brisbane's Riverfire event?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "F-35A Lightning II"
+        },
+        {
+          "text": "EA-18G Growler"
+        },
+        {
+          "text": "C-130J Super Hercules"
+        },
+        {
+          "text": "KC-30A Multi Role Tanker Transport"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "ABC News and official RAAF/Defence media confirm the ADF aerial display at Riverfire 2025 included EA-18G Growlers (alongside a C-17A Globemaster III and a C-27J Spartan). The EA-18G Growler option is therefore correct; the other listed aircraft are not reported as participants in the Riverfire 2025 display.",
+      "source": "https://www.abc.net.au/news/2025-09-05/qld-river-fire-fireworks-brisbane-festival-transport-roads/105725532"
+    }
+  ],
+  "date": "2025-09-07",
+  "generatedAt": "2025-09-06T15:57:03.332Z"
+}
