@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "Following the recent deadly earthquakes in eastern Afghanistan, which two provinces were reported by Australian coverage as the worst affected, with thousands of homes destroyed and a rapidly rising death toll?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "Kandahar and Helmand"
+        },
+        {
+          "text": "Kunar and Nangarhar"
+        },
+        {
+          "text": "Kabul and Herat"
+        },
+        {
+          "text": "Badakhshan and Balkh"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Australian reporting (notably ABC and SBS) identified the eastern provinces Kunar and Nangarhar as the worst-hit areas, reporting thousands of homes destroyed and a rapidly rising death toll in the immediate aftermath of the quakes.",
+      "source": "https://www.abc.net.au/news/2025-09-02/afghanistan-earthquake-kills-more-than-one-thousand-people/105727308"
+    },
+    {
+      "question": "Following Prime Minister Anthony Albanese's late-night phone call with US President Donald Trump, how did Albanese describe the conversation in his public readout?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "Tense and confrontational"
+        },
+        {
+          "text": "Warm and constructive"
+        },
+        {
+          "text": "Brief and purely formal"
+        },
+        {
+          "text": "Unproductive and unresolved"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Albanese publicly flagged the late-night call and described it as a \"warm and constructive\" conversation about trade, critical minerals and shared security interests, according to ABC News coverage.",
+      "source": "https://www.abc.net.au/news/2025-09-05/anthony-albanese-donald-trump-talk-trade-security-minerals/105737812"
+    },
+    {
+      "question": "In the Cobblebank (outer-west Melbourne) incident that left two boys dead, how did Victoria Police describe the nature of the attack?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "A lone attacker using a firearm who fled on foot"
+        },
+        {
+          "text": "A spontaneous fight between the two victims and another teen"
+        },
+        {
+          "text": "A targeted attack by multiple masked males armed with machetes or long-edged weapons"
+        },
+        {
+          "text": "A domestic incident involving family members at a private residence"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Victoria Police said the deaths were connected and were being treated as a targeted attack with the \"hallmarks of youth gang activity,\" describing multiple masked male offenders armed with machetes or long‑edged weapons (CCTV showed masked offenders carrying weapons). Reports about a vehicle are inconsistent; the police/ABC account does not definitively confirm that detail.",
+      "source": "https://www.abc.net.au/news/2025-09-07/teen-stabbing-melbourne/105744644?utm_source=openai"
+    },
+    {
+      "question": "Following the APL's announcement this week about Western United, what did the league decide for the club's participation in the 2025/26 A‑League Men’s and Women’s seasons?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "The APL permanently expelled Western United from the A‑Leagues with no option to return."
+        },
+        {
+          "text": "The APL allowed Western United to compete as normal while its owner was in liquidation, keeping all players under contract."
+        },
+        {
+          "text": "The APL placed Western United's Club Participation Agreement into conditional hibernation, so the club will not compete next season and players were released to seek other contracts."
+        },
+        {
+          "text": "The APL merged Western United with another club to keep an expanded competition size for 2025/26."
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "The APL announced it had placed Western United's Club Participation Agreement into conditional hibernation for 2025/26, meaning the club will not compete next season and the playing group was released so players can seek other contracts. Media reports also indicate head coach John Aloisi is now a free agent. The APL statement did not describe a permanent expulsion, continued competition, or any merger.",
+      "source": "https://aleagues.com.au/news/apl-statement-western-united-2025-26-conditional-hibernation-details/"
+    },
+    {
+      "question": "Australian outlets reported that Lady Gaga released a new single, \"The Dead Dance\", with a gothic music video tied to Netflix's Wednesday (season 2). Which filmmaker directed the clip?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "David Fincher"
+        },
+        {
+          "text": "Christopher Nolan"
+        },
+        {
+          "text": "Tim Burton"
+        },
+        {
+          "text": "Sofia Coppola"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Coverage in Australian entertainment pages notes that the music video for Lady Gaga's \"The Dead Dance\" was directed by Tim Burton, who provided the gothic, horror-tinged visuals tied to Wednesday season 2.",
+      "source": "https://au.lifestyle.yahoo.com/lady-gaga-drops-haunting-music-190051126.html"
+    }
+  ],
+  "date": "2025-09-08",
+  "generatedAt": "2025-09-07T15:55:42.324Z"
+}
