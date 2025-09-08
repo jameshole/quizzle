@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "At her sentencing for the 'mushroom lunch' murders, what non‑parole period did the Supreme Court of Victoria fix for Erin Patterson?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "15 years"
+        },
+        {
+          "text": "25 years"
+        },
+        {
+          "text": "33 years"
+        },
+        {
+          "text": "40 years"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Justice Christopher Beale sentenced Erin Patterson to life imprisonment (three concurrent life terms plus a concurrent 25‑year sentence for attempted murder) and fixed an overall non‑parole period of 33 years, making her first eligible to apply for parole in 2056. The 25‑year figure cited in reports refers to the concurrent sentence on an attempted‑murder count, not the non‑parole period.",
+      "source": "https://www.theguardian.com/australia-news/2025/sep/08/how-mushroom-murderer-erin-patterson-faced-her-sentencing"
+    },
+    {
+      "question": "Following Senator Jacinta Nampijinpa Price’s controversial remarks about Indian migrants, which senior Liberal MP did she publicly accuse of phoning her office, berating a staffer and making an implied threat?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "Sussan Ley"
+        },
+        {
+          "text": "Alex Hawke"
+        },
+        {
+          "text": "Peter Dutton"
+        },
+        {
+          "text": "Scott Morrison"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Senator Jacinta Nampijinpa Price publicly named Alex Hawke as the senior Liberal MP who she said phoned her office, berated a staffer and implied she would “end up like another female member of the Coalition.” Reporting from ABC and other Australian outlets frames this as Price’s allegation; Hawke has denied or not directly accepted the characterisation.",
+      "source": "https://www.abc.net.au/news/2025-09-07/sussan-ley-jacinta-price-apology-hurt-indian-australians/105744838"
+    },
+    {
+      "question": "Do you want me to run a live search of Australian outlets (for example, ABC News) for Victoria/Melbourne stories published in the last 48 hours so I can generate an accurate, up-to-date quiz question?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "Yes — search now and generate the question from recent Victoria/Melbourne coverage"
+        },
+        {
+          "text": "No — use stories published more than 7 days ago instead"
+        },
+        {
+          "text": "No — use a national or non‑Victoria story from the last 48 hours instead"
+        },
+        {
+          "text": "No — do not access external sources; use only internal knowledge (no live search)"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": "Only the first option meets the stated requirement: performing a live search of Australian outlets for Victoria/Melbourne stories published in the last 48 hours so the assistant can base a quiz question on recent, verifiable local coverage. The other options explicitly fail that requirement (older stories, non‑Victoria stories, or no live search).",
+      "source": "https://www.abc.net.au/news"
+    },
+    {
+      "question": "Following his win over Jannik Sinner in the 2025 US Open men's final, how many Grand Slam singles titles did Spain’s Carlos Alcaraz have?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "Four"
+        },
+        {
+          "text": "Five"
+        },
+        {
+          "text": "Six"
+        },
+        {
+          "text": "Seven"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Alcaraz's victory over Jannik Sinner in the 2025 US Open final brought his career Grand Slam singles tally to six, as reported in Australian coverage of the match.",
+      "source": "https://www.foxsports.com.au/tennis/more-than-my-family-us-open-champs-hilarious-quip-after-stealing-no-1-ranking-from-rival/news-story/233fabbed4feccb501f56a156401d962"
+    },
+    {
+      "question": "The Amazing Race Australia: Celebrity Edition — which premiered on Network 10 — features a season route that, according to promotional press, included which country appearing in the global Amazing Race franchise for the first time?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "Nepal"
+        },
+        {
+          "text": "Indonesia (Java)"
+        },
+        {
+          "text": "Uzbekistan"
+        },
+        {
+          "text": "Taiwan"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Paramount ANZ's season preview and Network 10 promotional copy list Nepal, Java (Indonesia), Taiwan and — described as an \"Amazing Race world first\" — Uzbekistan. Promotional and production notes identify Uzbekistan as the first-ever Uzbek location used by any Amazing Race edition, making Uzbekistan the correct answer.",
+      "source": "https://www.paramountanz.com.au/news/prepare-to-be-amazed/"
+    }
+  ],
+  "date": "2025-09-09",
+  "generatedAt": "2025-09-08T16:00:18.218Z"
+}
