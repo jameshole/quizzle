@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "In reporting on the Global Sumud flotilla aid vessel that caught fire as it prepared to depart Tunisia, which authority denied a drone strike and said the blaze may have started on board?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "Israeli Defence Forces"
+        },
+        {
+          "text": "Tunisian authorities"
+        },
+        {
+          "text": "Global Sumud organisers"
+        },
+        {
+          "text": "UN Human Rights Council"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Australian reporting quotes Tunisian authorities (and wire reports cite Tunisia’s Interior Ministry) as denying a drone strike and suggesting the fire may have started on board; Global Sumud organisers alleged a drone strike. The original option named the “Tunisian National Guard,” which is more specific than the sources used.",
+      "source": "https://www.theguardian.com/australia-news/live/2025/sep/09/australia-news-live-anthony-albanese-vanuatu-china-pacific-forum-murray-watt-nature-protection-laws-ntwnfb"
+    },
+    {
+      "question": "When Victoria tabled the Statewide Treaty Bill, what is the name of the new statutory body that would make the First Peoples’ Assembly a permanent statutory corporation?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "Nyerna Yoorrook Telkuna"
+        },
+        {
+          "text": "Nginma Ngainga Wara"
+        },
+        {
+          "text": "Gellung Warl"
+        },
+        {
+          "text": "Treaty Authority"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "The bill would create a new body called Gellung Warl to make the First Peoples’ Assembly a permanent statutory corporation. Nyerna Yoorrook Telkuna is the proposed truth‑telling body, Nginma Ngainga Wara is the proposed accountability body, and the Treaty Authority is an existing earlier institution.",
+      "source": "https://www.news.com.au/national/victoria/politics/historic-day-victoria-introduces-countrys-first-treaty/news-story/15a5ff14638b499204932637baf3c48d"
+    },
+    {
+      "question": "In reporting on recent violent clashes in Melbourne where attackers stormed a First Nations protest after an anti‑immigration rally, which protest camp at Kings Domain was attacked?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "Camp Freedom"
+        },
+        {
+          "text": "Camp Sovereignty"
+        },
+        {
+          "text": "Occupy Melbourne"
+        },
+        {
+          "text": "Aboriginal Tent Embassy"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "News coverage identifies the First Nations protest camp at Kings Domain as Camp Sovereignty — videos and reports show attackers storming Camp Sovereignty after the anti‑immigration rally, leading to injuries and police investigations.",
+      "source": "https://www.abc.net.au/news/2025-09-01/camp-sovereignty-clash-melbourne-rally/105719018"
+    },
+    {
+      "question": "In the CommBank Socceroos' 3–1 win over New Zealand in Auckland that retained the Soccer Ashes, which player scored twice?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "Nestory Irankunda"
+        },
+        {
+          "text": "Mohamed Toure"
+        },
+        {
+          "text": "Chris Wood"
+        },
+        {
+          "text": "Garang Kuol"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mohamed Toure scored two goals in Australia's 3–1 victory in Auckland (Nestory Irankunda scored once and Chris Wood scored New Zealand's lone goal), which secured the Soccer Ashes for the Socceroos.",
+      "source": "https://www.abc.net.au/news/2025-09-09/new-zealand-vs-australia-socceroos-live-blog-soccer-ashes/105754478"
+    },
+    {
+      "question": "In the message you provided — \"I can do that — do you want me to run a live search of Australian news outlets now and return the top mainstream entertainment story from the past 48 hours?\" — what task did the speaker offer to perform? (For clarity: \"run a live search\" means to immediately search current Australian news outlets, not to broadcast live; \"past 48 hours\" refers to the 48 hours prior to the time of the message.)",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "Deliver a live television broadcast."
+        },
+        {
+          "text": "Provide a local weather report for the next 48 hours."
+        },
+        {
+          "text": "Run a live search of Australian news outlets and return the top mainstream entertainment story from the past 48 hours."
+        },
+        {
+          "text": "Publish an opinion piece on Australian politics."
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "The quoted message explicitly offers to \"run a live search of Australian news outlets now and return the top mainstream entertainment story from the past 48 hours.\" Here \"run a live search\" is clarified to mean immediately searching news outlets (not broadcasting), and \"past 48 hours\" is anchored to the 48 hours prior to the message. None of the other options match the task described.",
+      "source": "user-provided prompt (no external news URL)"
+    }
+  ],
+  "date": "2025-09-10",
+  "generatedAt": "2025-09-09T16:04:27.186Z"
+}
