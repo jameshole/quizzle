@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "Following Charlie Kirk's shooting while speaking at a Utah university event, which organisation was he best known for founding?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "The Heritage Foundation"
+        },
+        {
+          "text": "Young America's Foundation"
+        },
+        {
+          "text": "Turning Point USA"
+        },
+        {
+          "text": "Students for Liberty"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Charlie Kirk is widely described in Australian reporting as the founder/co‑founder and leading figure of Turning Point USA (TPUSA); Australian coverage of his shooting at Utah Valley University identified him with that organisation.",
+      "source": "https://www.sbs.com.au/news/article/conservative-influencer-and-trump-ally-charlie-kirk-shot-at-us-university-event/tdpq9ytcy/"
+    },
+    {
+      "question": "According to ANZ's recent announcement about its 'simplify the bank' restructure, approximately how many full‑time roles did the bank say it would cut?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "About 1,000 full‑time roles"
+        },
+        {
+          "text": "About 500 full‑time roles"
+        },
+        {
+          "text": "About 3,500 full‑time roles"
+        },
+        {
+          "text": "About 10,000 full‑time roles"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "ANZ announced it would cut about 3,500 full‑time roles as part of a restructure to be implemented over the next 12 months. Some outlets also reported an additional ~1,000 contractor roles, but the headline figure for employee/full‑time positions was ~3,500.",
+      "source": "https://www.9news.com.au/national/anz-announces-loss-of-3500-jobs-in-one-year/827cf978-6f23-479b-baf6-a2ceb93dd241"
+    },
+    {
+      "question": "In the large-scale manhunt for Dezi Freeman after the Porepunkah shooting, what reward did Victoria Police announce for information leading to his arrest?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "A$100,000"
+        },
+        {
+          "text": "A$1,000,000"
+        },
+        {
+          "text": "A$500,000"
+        },
+        {
+          "text": "A$2,000,000"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Victoria Police announced a record reward of up to A$1,000,000 for information leading to Dezi Freeman’s arrest (reported in early September 2025). Reporting described the amount as 'up to $1 million,' and multiple Australian outlets confirmed this as the announced reward.",
+      "source": "https://www.abc.net.au/news/2025-09-06/police-offer-1m-reward-for-dezi-freeman-arrest/105742966"
+    },
+    {
+      "question": "Following her recent surgery, why is Australia's Olympic canoe‑slalom star Jess Fox missing upcoming Canoe Slalom World Cup events?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "She was suspended after a failed drug test"
+        },
+        {
+          "text": "She is still recovering from surgery to remove a tumour from her left kidney"
+        },
+        {
+          "text": "She announced immediate retirement from international competition"
+        },
+        {
+          "text": "She withdrew to focus on preparing for the 2028 Olympics"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Reports state Jess (Jessica) Fox underwent surgery in late August to remove a tumour from her left kidney and is still recovering, so she will miss upcoming Canoe Slalom World Cup events while she recovers.",
+      "source": "https://www.abc.net.au/news/2025-08-28/jess-fox-kidney-tumour-successful-surgery-canoe-world-cup/105707838"
+    },
+    {
+      "question": "As reported in Australian coverage of his upcoming US TV debut, which professional dancer has been paired with Robert Irwin for season 34 of Dancing with the Stars?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "Sharna Burgess"
+        },
+        {
+          "text": "Witney Carson"
+        },
+        {
+          "text": "Jenna Johnson"
+        },
+        {
+          "text": "Derek Hough"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Australian entertainment coverage names Witney Carson as Robert Irwin’s professional partner for Dancing with the Stars Season 34. Multiple Australian outlets report the pairing and rehearsal activity in Los Angeles.",
+      "source": "https://celebrity.nine.com.au/latest/witney-carson-who-is-she-dancing-with-the-stars-us-performer-explainer/2edabb4a-9119-4f4b-af4d-131d2bbd4555"
+    }
+  ],
+  "date": "2025-09-12",
+  "generatedAt": "2025-09-11T15:58:26.591Z"
+}
