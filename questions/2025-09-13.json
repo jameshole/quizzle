@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "Following the Israeli strike on a compound in Doha that reportedly targeted senior Hamas figures and prompted an emergency UN Security Council meeting, which country's prime minister publicly condemned the attack at that UN session?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "Australia"
+        },
+        {
+          "text": "United States"
+        },
+        {
+          "text": "Qatar"
+        },
+        {
+          "text": "Israel"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Qatar’s prime minister, Sheikh Mohammed bin Abdulrahman al-Thani, publicly condemned the strike at the emergency United Nations Security Council meeting, saying the attack violated Qatari sovereignty and ignored the fate of hostages.",
+      "source": "https://www.abc.net.au/news/2025-09-12/qatar-accuses-israel-of-ignoring-hostages-after-doha-attack/105767280"
+    },
+    {
+      "question": "In the recent federal decision to extend Woodside’s North West Shelf (Karratha) gas project to 2070, who gave final federal approval for the extension?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "Penny Wong"
+        },
+        {
+          "text": "Murray Watt"
+        },
+        {
+          "text": "Peter Dutton"
+        },
+        {
+          "text": "Chris Bowen"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Environment Minister Murray Watt issued the formal federal approval allowing Woodside’s North West Shelf project to continue operating until 2070, subject to conditions and a partial heritage declaration. His final approval was announced on Sep 12, 2025 (a proposed/provisional approval had been made in May 2025).",
+      "source": "https://www.abc.net.au/news/2025-09-12/woodside-north-west-shelf-decision-murray-watt-pilbara/105758850"
+    },
+    {
+      "question": "In the recent decision to shelve the Grand Prix Amendment Bill, what change would the bill have allowed the Australian Grand Prix Corporation (AGPC) to make to Albert Park's exclusive race/lockout period?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "Reduce the exclusive period from seven days to three days"
+        },
+        {
+          "text": "Keep Albert Park closed to the public year‑round during Grand Prix works"
+        },
+        {
+          "text": "Extend the exclusive Albert Park lockout from seven days to up to 21 days"
+        },
+        {
+          "text": "Permanently transfer control of Albert Park to the Australian Grand Prix Corporation"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Allan Labor Government's Grand Prix Amendment Bill sought to allow the AGPC to extend the Albert Park exclusive race/lockout period from the current seven days to up to 21 days; the bill was shelved after it failed to win crossbench support.",
+      "source": "https://www.abc.net.au/news/2025-09-12/melbourne-f1-grand-prix-extension-shelved/105765288"
+    },
+    {
+      "question": "In the Sydney Roosters' 40–10 win over the Cronulla Sharks that completed an undefeated NRLW regular season, which Roosters player left the game with a suspected knee injury?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "Jocelyn Kelleher"
+        },
+        {
+          "text": "Tarryn Aiken"
+        },
+        {
+          "text": "Amber Hall"
+        },
+        {
+          "text": "Jayme Fressard"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tarryn Aiken, the Roosters halfback, was assisted from the field with a suspected knee injury and was awaiting scans. Other Roosters who left or were affected in the match had different issues (Amber Hall — calf, Jayme Fressard — ankle) and Jocelyn Kelleher remained on and took over kicking duties.",
+      "source": "https://www.abc.net.au/news/2025-09-12/tarryn-aiken-injures-knee-roosters-win-nrlw-minor-premiership/105765274"
+    },
+    {
+      "question": "Following Gabriella Brooks' public confirmation of her engagement to Liam Hemsworth in recent Australian coverage, how did she announce it?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "Posted a written statement on Twitter"
+        },
+        {
+          "text": "Posted photos on Instagram, including a close‑up of her engagement ring"
+        },
+        {
+          "text": "Revealed it during a televised interview"
+        },
+        {
+          "text": "Issued an official press release through their representatives"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Australian outlets reported that Gabriella Brooks confirmed the engagement by posting photos on Instagram — including images of the couple and a close‑up of her engagement ring — which was widely covered on 12 September 2025.",
+      "source": "https://celebrity.nine.com.au/latest/liam-hemsworth-engaged-actor-proposes-to-model-partner-gabriella-brooks-announces-engagement/52c2f3cb-8824-4477-9cbc-95fc449c3681"
+    }
+  ],
+  "date": "2025-09-13",
+  "generatedAt": "2025-09-12T15:55:18.445Z"
+}
