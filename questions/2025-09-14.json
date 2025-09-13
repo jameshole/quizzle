@@ -1,0 +1,111 @@
+{
+  "questions": [
+    {
+      "question": "On the opening night of the 2025 World Athletics Championships in Tokyo, who won the women's 10,000m?",
+      "category": "Global",
+      "answers": [
+        {
+          "text": "Gudaf Tsegay (Ethiopia)"
+        },
+        {
+          "text": "Lilian Kasait Rengeruk (Kenya)"
+        },
+        {
+          "text": "Beatrice Chebet (Kenya)"
+        },
+        {
+          "text": "Gout Gout (Australia)"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "Beatrice Chebet of Kenya won the women's 10,000m on opening night in Tokyo. Nadia Battocletti finished second (silver) and Gudaf Tsegay took bronze; Lilian Kasait Rengeruk did not place on the podium. (Gout Gout is an Australian sprinter and did not win this event.)",
+      "source": "https://www.abc.net.au/news/2025-09-13/live-updates-world-athletics-championships-2025-in-tokyo-day-1/105770190"
+    },
+    {
+      "question": "During the nationwide rival rallies on 13 September 2025, which capital city saw about 3,000 people attend the 'Australia Unites Against Government Corruption' rally?",
+      "category": "National",
+      "answers": [
+        {
+          "text": "Melbourne"
+        },
+        {
+          "text": "Sydney"
+        },
+        {
+          "text": "Brisbane"
+        },
+        {
+          "text": "Adelaide"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "ABC News reported that Sydney's 'Australia Unites Against Government Corruption' rally drew about 3,000 people. Other capitals had smaller crowd estimates (e.g. ~2,500 in Melbourne, ~1,000–1,500 in Brisbane, and hundreds in Adelaide).",
+      "source": "https://www.abc.net.au/news/2025-09-13/protesters-across-political-spectrum-rally-across-australia/105769960"
+    },
+    {
+      "question": "Following the death of Luke Briggs after his arrest in Hoppers Crossing, which criminal charge was laid against two Victoria Police officers in the recent announcement?",
+      "category": "Local",
+      "answers": [
+        {
+          "text": "Murder"
+        },
+        {
+          "text": "Negligent manslaughter"
+        },
+        {
+          "text": "Common assault"
+        },
+        {
+          "text": "Dangerous driving causing death"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "Homicide Squad detectives announced that the two officers were charged with negligent manslaughter over Luke Briggs's death after his July 2024 arrest; they were granted bail and are due back in court. (ABC News report, 11–12 Sep 2025.)",
+      "source": "https://www.abc.net.au/news/2025-09-11/two-officers-charged-homicide-squad-negligent-manslaughter/105762544"
+    },
+    {
+      "question": "According to ABC News' live blog of the 13 September 2025 Rugby Championship match in Sydney (Argentina 28–26 Australia), how many penalties did ABC report Australia conceded during the match?",
+      "category": "Sports",
+      "answers": [
+        {
+          "text": "10 penalties"
+        },
+        {
+          "text": "13 penalties"
+        },
+        {
+          "text": "14 penalties"
+        },
+        {
+          "text": "16 penalties"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "ABC's live-updates blog explicitly states the Wallabies gave away a 14th penalty in the match — the live blog records 'a 14th that went against the Wallabies in the match.'",
+      "source": "https://www.abc.net.au/news/2025-09-13/live-updates-wallabies-vs-argentina-the-rugby-championship/105753320"
+    },
+    {
+      "question": "Which arts leader is presiding over her final Brisbane Festival program in 2025, described as a 'swan‑song' as she leaves to take up the chief executive / artistic director role at Brisbane Powerhouse?",
+      "category": "Entertainment",
+      "answers": [
+        {
+          "text": "Louise Bezzina"
+        },
+        {
+          "text": "Benjamin Millepied"
+        },
+        {
+          "text": "Stephen Page"
+        },
+        {
+          "text": "Tim Brady"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": "Louise Bezzina is the outgoing artistic director whose 2025 Brisbane Festival program has been framed as her swan‑song; she is leaving to take up the chief executive / artistic director role at Brisbane Powerhouse.",
+      "source": "https://brisbanepowerhouse.org/louise-bezzina-appointed-ceo-artistic-director-of-brisbane-powerhouse/?utm_source=openai"
+    }
+  ],
+  "date": "2025-09-14",
+  "generatedAt": "2025-09-13T15:55:21.770Z"
+}
